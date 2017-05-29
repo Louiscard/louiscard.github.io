@@ -4,9 +4,9 @@
   <subtitle>阅读、思考、写作</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://louiscards.com/"/>
   <updated>2017-05-29T04:31:02.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://louiscards.com/</id>
   
   <author>
     <name>Louis Tarrant</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Louis的「每周语文」| 20170528</title>
-    <link href="http://yoursite.com/2017/05/29/Louis%E7%9A%84%E3%80%8C%E6%AF%8F%E5%91%A8%E8%AF%AD%E6%96%87%E3%80%8D-20170528/"/>
-    <id>http://yoursite.com/2017/05/29/Louis的「每周语文」-20170528/</id>
+    <link href="http://louiscards.com/2017/05/29/Louis%E7%9A%84%E3%80%8C%E6%AF%8F%E5%91%A8%E8%AF%AD%E6%96%87%E3%80%8D-20170528/"/>
+    <id>http://louiscards.com/2017/05/29/Louis的「每周语文」-20170528/</id>
     <published>2017-05-28T16:00:00.000Z</published>
     <updated>2017-05-29T04:31:02.000Z</updated>
     
@@ -105,19 +105,19 @@
     
     </summary>
     
-      <category term="每周语文" scheme="http://yoursite.com/categories/%E6%AF%8F%E5%91%A8%E8%AF%AD%E6%96%87/"/>
+      <category term="每周语文" scheme="http://louiscards.com/categories/%E6%AF%8F%E5%91%A8%E8%AF%AD%E6%96%87/"/>
     
     
-      <category term="心智提升" scheme="http://yoursite.com/tags/%E5%BF%83%E6%99%BA%E6%8F%90%E5%8D%87/"/>
+      <category term="心智提升" scheme="http://louiscards.com/tags/%E5%BF%83%E6%99%BA%E6%8F%90%E5%8D%87/"/>
     
-      <category term="创业知识" scheme="http://yoursite.com/tags/%E5%88%9B%E4%B8%9A%E7%9F%A5%E8%AF%86/"/>
+      <category term="创业知识" scheme="http://louiscards.com/tags/%E5%88%9B%E4%B8%9A%E7%9F%A5%E8%AF%86/"/>
     
   </entry>
   
   <entry>
     <title>律师效能手册 - 你需要一个Inbox</title>
-    <link href="http://yoursite.com/2017/05/23/%E5%BE%8B%E5%B8%88%E6%95%88%E8%83%BD%E6%89%8B%E5%86%8C-%E4%BD%A0%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AAInbox/"/>
-    <id>http://yoursite.com/2017/05/23/律师效能手册-你需要一个Inbox/</id>
+    <link href="http://louiscards.com/2017/05/23/%E5%BE%8B%E5%B8%88%E6%95%88%E8%83%BD%E6%89%8B%E5%86%8C-%E4%BD%A0%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AAInbox/"/>
+    <id>http://louiscards.com/2017/05/23/律师效能手册-你需要一个Inbox/</id>
     <published>2017-05-22T16:00:00.000Z</published>
     <updated>2017-05-24T06:24:51.000Z</updated>
     
@@ -161,23 +161,23 @@
     
     </summary>
     
-      <category term="律师效能手册" scheme="http://yoursite.com/categories/%E5%BE%8B%E5%B8%88%E6%95%88%E8%83%BD%E6%89%8B%E5%86%8C/"/>
+      <category term="律师效能手册" scheme="http://louiscards.com/categories/%E5%BE%8B%E5%B8%88%E6%95%88%E8%83%BD%E6%89%8B%E5%86%8C/"/>
     
     
-      <category term="印象笔记" scheme="http://yoursite.com/tags/%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0/"/>
+      <category term="印象笔记" scheme="http://louiscards.com/tags/%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0/"/>
     
-      <category term="生产力工具" scheme="http://yoursite.com/tags/%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%B7%A5%E5%85%B7/"/>
+      <category term="生产力工具" scheme="http://louiscards.com/tags/%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%B7%A5%E5%85%B7/"/>
     
-      <category term="知识管理" scheme="http://yoursite.com/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/"/>
+      <category term="知识管理" scheme="http://louiscards.com/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/"/>
     
-      <category term="法律人" scheme="http://yoursite.com/tags/%E6%B3%95%E5%BE%8B%E4%BA%BA/"/>
+      <category term="法律人" scheme="http://louiscards.com/tags/%E6%B3%95%E5%BE%8B%E4%BA%BA/"/>
     
   </entry>
   
   <entry>
     <title>五个可能会让你爱不释手的印象笔记中阶技巧</title>
-    <link href="http://yoursite.com/2017/05/10/%E4%BA%94%E4%B8%AA%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%AE%A9%E4%BD%A0%E7%88%B1%E4%B8%8D%E9%87%8A%E6%89%8B%E7%9A%84%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0%E4%B8%AD%E9%98%B6%E6%8A%80%E5%B7%A7/"/>
-    <id>http://yoursite.com/2017/05/10/五个可能会让你爱不释手的印象笔记中阶技巧/</id>
+    <link href="http://louiscards.com/2017/05/10/%E4%BA%94%E4%B8%AA%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%AE%A9%E4%BD%A0%E7%88%B1%E4%B8%8D%E9%87%8A%E6%89%8B%E7%9A%84%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0%E4%B8%AD%E9%98%B6%E6%8A%80%E5%B7%A7/"/>
+    <id>http://louiscards.com/2017/05/10/五个可能会让你爱不释手的印象笔记中阶技巧/</id>
     <published>2017-05-09T16:00:00.000Z</published>
     <updated>2017-05-24T15:05:46.000Z</updated>
     
@@ -256,23 +256,23 @@
     
     </summary>
     
-      <category term="律师效能手册" scheme="http://yoursite.com/categories/%E5%BE%8B%E5%B8%88%E6%95%88%E8%83%BD%E6%89%8B%E5%86%8C/"/>
+      <category term="律师效能手册" scheme="http://louiscards.com/categories/%E5%BE%8B%E5%B8%88%E6%95%88%E8%83%BD%E6%89%8B%E5%86%8C/"/>
     
     
-      <category term="印象笔记" scheme="http://yoursite.com/tags/%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0/"/>
+      <category term="印象笔记" scheme="http://louiscards.com/tags/%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0/"/>
     
-      <category term="生产力工具" scheme="http://yoursite.com/tags/%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%B7%A5%E5%85%B7/"/>
+      <category term="生产力工具" scheme="http://louiscards.com/tags/%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%B7%A5%E5%85%B7/"/>
     
-      <category term="知识管理" scheme="http://yoursite.com/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/"/>
+      <category term="知识管理" scheme="http://louiscards.com/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/"/>
     
-      <category term="法律人" scheme="http://yoursite.com/tags/%E6%B3%95%E5%BE%8B%E4%BA%BA/"/>
+      <category term="法律人" scheme="http://louiscards.com/tags/%E6%B3%95%E5%BE%8B%E4%BA%BA/"/>
     
   </entry>
   
   <entry>
     <title>想明白这一点后，我开始原谅自己</title>
-    <link href="http://yoursite.com/2017/05/05/%E6%83%B3%E6%98%8E%E7%99%BD%E8%BF%99%E4%B8%80%E7%82%B9%E5%90%8E%EF%BC%8C%E6%88%91%E5%BC%80%E5%A7%8B%E5%8E%9F%E8%B0%85%E8%87%AA%E5%B7%B1/"/>
-    <id>http://yoursite.com/2017/05/05/想明白这一点后，我开始原谅自己/</id>
+    <link href="http://louiscards.com/2017/05/05/%E6%83%B3%E6%98%8E%E7%99%BD%E8%BF%99%E4%B8%80%E7%82%B9%E5%90%8E%EF%BC%8C%E6%88%91%E5%BC%80%E5%A7%8B%E5%8E%9F%E8%B0%85%E8%87%AA%E5%B7%B1/"/>
+    <id>http://louiscards.com/2017/05/05/想明白这一点后，我开始原谅自己/</id>
     <published>2017-05-04T16:00:00.000Z</published>
     <updated>2017-05-13T18:30:51.000Z</updated>
     
@@ -337,19 +337,19 @@
     
     </summary>
     
-      <category term="心智提升" scheme="http://yoursite.com/categories/%E5%BF%83%E6%99%BA%E6%8F%90%E5%8D%87/"/>
+      <category term="心智提升" scheme="http://louiscards.com/categories/%E5%BF%83%E6%99%BA%E6%8F%90%E5%8D%87/"/>
     
     
-      <category term="心智提升" scheme="http://yoursite.com/tags/%E5%BF%83%E6%99%BA%E6%8F%90%E5%8D%87/"/>
+      <category term="心智提升" scheme="http://louiscards.com/tags/%E5%BF%83%E6%99%BA%E6%8F%90%E5%8D%87/"/>
     
-      <category term="学习方法" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/"/>
+      <category term="学习方法" scheme="http://louiscards.com/tags/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/"/>
     
   </entry>
   
   <entry>
     <title>你的法律检索流程里可能还缺这一步</title>
-    <link href="http://yoursite.com/2017/04/28/%E4%BD%A0%E7%9A%84%E6%B3%95%E5%BE%8B%E6%A3%80%E7%B4%A2%E6%B5%81%E7%A8%8B%E5%8F%AF%E8%83%BD%E8%BF%98%E7%BC%BA%E8%BF%99%E4%B8%80%E6%AD%A5/"/>
-    <id>http://yoursite.com/2017/04/28/你的法律检索流程可能还缺这一步/</id>
+    <link href="http://louiscards.com/2017/04/28/%E4%BD%A0%E7%9A%84%E6%B3%95%E5%BE%8B%E6%A3%80%E7%B4%A2%E6%B5%81%E7%A8%8B%E5%8F%AF%E8%83%BD%E8%BF%98%E7%BC%BA%E8%BF%99%E4%B8%80%E6%AD%A5/"/>
+    <id>http://louiscards.com/2017/04/28/你的法律检索流程可能还缺这一步/</id>
     <published>2017-04-27T16:00:00.000Z</published>
     <updated>2017-05-27T00:49:26.000Z</updated>
     
@@ -412,21 +412,21 @@
     
     </summary>
     
-      <category term="律师效能手册" scheme="http://yoursite.com/categories/%E5%BE%8B%E5%B8%88%E6%95%88%E8%83%BD%E6%89%8B%E5%86%8C/"/>
+      <category term="律师效能手册" scheme="http://louiscards.com/categories/%E5%BE%8B%E5%B8%88%E6%95%88%E8%83%BD%E6%89%8B%E5%86%8C/"/>
     
     
-      <category term="Evernote" scheme="http://yoursite.com/tags/Evernote/"/>
+      <category term="Evernote" scheme="http://louiscards.com/tags/Evernote/"/>
     
-      <category term="印象笔记" scheme="http://yoursite.com/tags/%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0/"/>
+      <category term="印象笔记" scheme="http://louiscards.com/tags/%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0/"/>
     
-      <category term="搜索" scheme="http://yoursite.com/tags/%E6%90%9C%E7%B4%A2/"/>
+      <category term="搜索" scheme="http://louiscards.com/tags/%E6%90%9C%E7%B4%A2/"/>
     
   </entry>
   
   <entry>
     <title>为什么我鼓励你成为「5分钟青年」？</title>
-    <link href="http://yoursite.com/2017/03/24/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E9%BC%93%E5%8A%B1%E4%BD%A0%E6%88%90%E4%B8%BA%E3%80%8C5%E5%88%86%E9%92%9F%E9%9D%92%E5%B9%B4%E3%80%8D%EF%BC%9F/"/>
-    <id>http://yoursite.com/2017/03/24/为什么我鼓励你成为「5分钟青年」？/</id>
+    <link href="http://louiscards.com/2017/03/24/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E9%BC%93%E5%8A%B1%E4%BD%A0%E6%88%90%E4%B8%BA%E3%80%8C5%E5%88%86%E9%92%9F%E9%9D%92%E5%B9%B4%E3%80%8D%EF%BC%9F/"/>
+    <id>http://louiscards.com/2017/03/24/为什么我鼓励你成为「5分钟青年」？/</id>
     <published>2017-03-23T16:00:00.000Z</published>
     <updated>2017-05-24T02:29:31.000Z</updated>
     
@@ -509,25 +509,25 @@
     
     </summary>
     
-      <category term="时间管理" scheme="http://yoursite.com/categories/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/"/>
+      <category term="时间管理" scheme="http://louiscards.com/categories/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/"/>
     
     
-      <category term="MVH" scheme="http://yoursite.com/tags/MVH/"/>
+      <category term="MVH" scheme="http://louiscards.com/tags/MVH/"/>
     
-      <category term="SCT" scheme="http://yoursite.com/tags/SCT/"/>
+      <category term="SCT" scheme="http://louiscards.com/tags/SCT/"/>
     
-      <category term="场景切换" scheme="http://yoursite.com/tags/%E5%9C%BA%E6%99%AF%E5%88%87%E6%8D%A2/"/>
+      <category term="场景切换" scheme="http://louiscards.com/tags/%E5%9C%BA%E6%99%AF%E5%88%87%E6%8D%A2/"/>
     
-      <category term="最小可行性习惯" scheme="http://yoursite.com/tags/%E6%9C%80%E5%B0%8F%E5%8F%AF%E8%A1%8C%E6%80%A7%E4%B9%A0%E6%83%AF/"/>
+      <category term="最小可行性习惯" scheme="http://louiscards.com/tags/%E6%9C%80%E5%B0%8F%E5%8F%AF%E8%A1%8C%E6%80%A7%E4%B9%A0%E6%83%AF/"/>
     
-      <category term="时间管理" scheme="http://yoursite.com/tags/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/"/>
+      <category term="时间管理" scheme="http://louiscards.com/tags/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>认认真真走形式</title>
-    <link href="http://yoursite.com/2017/03/20/%E8%AE%A4%E8%AE%A4%E7%9C%9F%E7%9C%9F%E8%B5%B0%E5%BD%A2%E5%BC%8F/"/>
-    <id>http://yoursite.com/2017/03/20/认认真真走形式/</id>
+    <link href="http://louiscards.com/2017/03/20/%E8%AE%A4%E8%AE%A4%E7%9C%9F%E7%9C%9F%E8%B5%B0%E5%BD%A2%E5%BC%8F/"/>
+    <id>http://louiscards.com/2017/03/20/认认真真走形式/</id>
     <published>2017-03-19T16:00:00.000Z</published>
     <updated>2017-05-24T02:29:07.000Z</updated>
     
