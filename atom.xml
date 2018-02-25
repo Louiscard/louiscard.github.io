@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://louiscards.com/"/>
-  <updated>2017-12-27T18:21:54.000Z</updated>
+  <updated>2018-02-25T13:35:02.000Z</updated>
   <id>http://louiscards.com/</id>
   
   <author>
@@ -14,6 +14,138 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>这款帮你自我量化的工具，还能做更多</title>
+    <link href="http://louiscards.com/2018/02/26/my-guide-of-timetrack-io/"/>
+    <id>http://louiscards.com/2018/02/26/my-guide-of-timetrack-io/</id>
+    <published>2018-02-25T16:00:00.000Z</published>
+    <updated>2018-02-25T13:35:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="这款帮你自我量化的工具，还能做更多"><a href="#这款帮你自我量化的工具，还能做更多" class="headerlink" title="这款帮你自我量化的工具，还能做更多"></a>这款帮你自我量化的工具，还能做更多</h2><p>目录：<br>0 楔子<br>1 强大的基础功能<br>1.1 便捷的时间纪录<br>1.2 可视化的数据呈现<br>1.3 提醒记录时间<br>2 低配的快速启动器<br>2.1 用 URL 倍增时间记录效率<br>2.2 配合 Workflow，解锁高级玩法<br>2.3 精美的自定义图标<br>3 目标，时间追踪的仪表盘<br>3.1 看到自己的进度条<br>3.2 给坏习惯画一条红线<br>3.3 给单次活动瘦身，给习惯养成减压<br>4 内置的番茄工作法让工作更加专注<br>4.1 真 · 减少操作<br>4.2 所有活动都可备注<br>4.3 让休息也能有迹可循<br>5 结语</p>
+<h2 id="楔子"><a href="#楔子" class="headerlink" title="楔子"></a>楔子</h2><p>Timetrack 一直是一个挺小众的 App，这跟它纪录时间的功能定位有关，即便是经常需要按小时计费的法律服务行业，真正养成计时习惯的律师也是少之又少。</p>
+<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/085959.png-beta3.0" alt=""></p>
+<p>计时还有一个更高大上的名字叫：<strong>自我量化（Quantified Self）</strong>。</p>
+<p>比尔·盖茨在公开信上讨论过这个问题，他提到：</p>
+<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/bill.001.jpeg-beta3.0" alt="我深深感受到「量化措施」对于改善人类状况的重要性。如果你制订一个明确的目标并找到一种能朝着目标推进的计量手段，你就可以取得不可思议的进步。这看上去似乎是基本要求，但令人惊讶的是人们经常没能做到，做对也非常困难。"></p>
+<p>正如比尔·盖茨所说，量化很重要，也很困难，它帮助像柳比歇夫这样极致的自我量化者取得举世瞩目的成就，也帮助像 Linkedin 这样坚定的数据驱动型公司获得商业上的巨大成功。</p>
+<blockquote>
+<p>路径显而易见，却又艰难无比。<br><a id="more"></a><br>timetrack 的核心功能就是让比尔·盖茨所说的「非常困难」的事情能够通过现代化工具变得简单一点，让我们能够轻松地完成时间管理范畴的自我量化。</p>
+</blockquote>
+<p>下面我就来介绍下这款我在 2017 年打开频率最高、对我个人影响最大、我心目中的绝对的年度最佳应用：<strong>timetrack</strong>。</p>
+<h2 id="1-强大的基础功能"><a href="#1-强大的基础功能" class="headerlink" title="1. 强大的基础功能"></a>1. 强大的基础功能</h2><p>第一部分先来谈一谈这款工具的基础功能：时间记录。同类的效率工具其实不少，比如 <a href="https://toggl.com/" target="_blank" rel="external">Toggl</a>、<a href="https://www.getharvest.com/" target="_blank" rel="external">Harvest</a>、<a href="https://www.dovico.com/" target="_blank" rel="external">Dovico</a>、<a href="https://itunes.apple.com/sg/app/ihour-%E6%97%B6%E9%97%B4%E6%8A%95%E8%B5%84%E8%AE%A1%E5%88%92-10000-%E5%B0%8F%E6%97%B6%E5%85%BB%E6%88%90%E8%AE%A1%E5%88%92/id687625208?l=zh&amp;mt=8" target="_blank" rel="external">iHour</a>、<a href="https://itunes.apple.com/cn/app/%E6%97%B6%E9%97%B4%E5%9D%97-%E8%B6%85%E5%BF%AB%E8%AE%B0%E5%BD%95%E6%97%B6%E9%97%B4-%E6%97%A0%E9%9C%80%E6%8C%89%E5%BC%80%E5%A7%8B%E5%81%9C%E6%AD%A2/id1086617993?mt=8" target="_blank" rel="external">时间块</a>等等，即便和专业的时间记录产品比较，timetrack 在基础功能上也毫不逊色。</p>
+<h3 id="1-1-便捷的时间纪录"><a href="#1-1-便捷的时间纪录" class="headerlink" title="1.1 便捷的时间纪录"></a>1.1 便捷的时间纪录</h3><p>在最初使用的时候，可以先以系统预设活动为主。</p>
+<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/iphone.png-beta3.0" alt=""></p>
+<p>记录时间的方法非常简单，开始工作的时候点击「工作」图标，启动计时。timetrack 可以同时显示两个时间进程，一个是本次活动的时间，一个是目标时间。比如下面这张图显示：我已经工作了 19 分钟，离本次目标达成还有 1 小时 40 分钟。</p>
+<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/%E4%B8%A4%E4%B8%AA%E6%97%B6%E9%97%B4.png-beta3.0" alt=""></p>
+<p>工作当中遇到偶尔的打断，可以点击暂停计时，在工作结束之后，点击停止按钮或直接启动新的活动就会结束此次计时，操作非常简单。</p>
+<p>我在去年入手了 Apple watch，并把 timetrack 放到表盘的一角，不仅能随时了解当下的时间记录状况，还能直接在手表上完成时间记录的操作，真是其疾如风啊。</p>
+<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/watch.png-beta3.0" alt=""></p>
+<h3 id="1-2-可视化的数据呈现"><a href="#1-2-可视化的数据呈现" class="headerlink" title="1.2 可视化的数据呈现"></a>1.2 可视化的数据呈现</h3><p>记录时间很重要的目的在于总结和复盘，帮助我们持续改进。下面这张图是柳比歇夫用纸笔完成的一次时间记录的内容：</p>
+<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/%E6%9F%B3%E6%AF%94%E6%AD%87%E5%A4%AB.001.jpeg-beta3.0" alt=""></p>
+<p>现在，有了 timetrack，我们可以用极低的成本实现非常优秀的数据呈现效果，它目前支持三种不同的视图呈现方式。</p>
+<ul>
+<li>列表视图：查阅每一天所有时间记录的明细；</li>
+<li>日历视图：概览一整天的工作、学习、生活情况；</li>
+<li>饼状视图：了解每天、每周和每月的时间分配比例。</li>
+</ul>
+<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/%E5%A4%9A%E7%A7%8D%E8%A7%86%E5%9B%BE.png-beta3.0" alt=""></p>
+<p>到了年底，还可以导出一整年的数据，通过 Nmmber 或者 Excel 等工具进行更深度的数据挖掘。</p>
+<h3 id="1-3-提醒记录时间"><a href="#1-3-提醒记录时间" class="headerlink" title="1.3 提醒记录时间"></a>1.3 提醒记录时间</h3><p>时间记录像读书、健身一样，是一个主动行为，在决定自我量化以后，我经历了一段颇为漫长的习惯养成阶段，下面要介绍的两个功能在这期间给了我非常大的帮助。</p>
+<p>第一是提醒记录时间的功能，timetrack 每隔一段时间可以提醒你一次「别忘了记录时间」。我最初设定每两个小时提醒一次，防止我忙起来忘了计时。timetrack 支持后台勾选提醒的时间范围，最初让它和你的作息时间保持一致即可。</p>
+<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/%E9%80%89%E6%8B%A9%E6%97%B6%E9%97%B4%E6%AE%B5.png-beta3.0" alt=""></p>
+<p>除此之外，timetrack 能够基于地理位置变化而提醒，支持调取百度地图的 API，我分享下自己设置过的两个提醒：</p>
+<p>一个是 timetrack 监测我到单位会提醒我「制定当日计划」，防止我毫无头绪地扎进琐碎的事务中。</p>
+<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/%E6%8F%90%E9%86%92%E8%AE%B0%E5%BD%95%E6%97%B6%E9%97%B4.png-beta3.0" alt=""></p>
+<p>回到家，它会提醒我「家务」，一来是提醒我记录时间，主要作用是让我别忘了「回家先收拾收拾屋子啊」。</p>
+<p>当然，随着每天的刻意重复，我们总会养成习惯，那一天，也是我们关闭提醒的时候。所有的提醒和推送都会消耗我们的注意力资源，所以，千万不要过于依赖。</p>
+<h2 id="2-低配的快速启动器"><a href="#2-低配的快速启动器" class="headerlink" title="2. 低配的快速启动器"></a>2. 低配的快速启动器</h2><p>Launch Center Pro？（简称 LCP） 曾经是我非常重度使用的一个 App，它帮我快速打开各种软件和服务，特别是在使用过一段时间，形成肌肉记忆之后，闭着眼睛也可以打开想要的程序。</p>
+<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/lcp.png-beta3.0" alt=""></p>
+<p>把常用的 App 放到 LCP 中，不常用的使用 Spotlight 搜索打开，这种模式帮我节省了大量打开 App 的时间。然而，因为还有记录时间的习惯，在很长的一段时间，我的操作都只能是：打开 LCP，启动 timetrack 计时，返回 LCP，打开某个 App，有时候还要再开一个倒计时。这个操作实在是太反人性了，导致最后基本处于半放弃的状态。</p>
+<p>然而，这一切都在 timetrack 的 1.3.1 版本更新之后发生了变化，在那之后 timetrck 开始支持调用 URL，这个不算多么重大的更新，让记录时间的体验有了跨越式提升。</p>
+<h3 id="2-1-用-URL-倍增时间记录效率"><a href="#2-1-用-URL-倍增时间记录效率" class="headerlink" title="2.1 用 URL 倍增时间记录效率"></a>2.1 用 URL 倍增时间记录效率</h3><p>我会用 timetrack 帮我记录睡眠时间，也同步在使用 Sleep Cycle 帮我监测睡眠质量，以前我需要在两个工具之间来回切换，现在只需要在 timetrack 里面点击「睡眠」。开始启动时间记录的同时，会自动跳转到 Sleep Cycle 中：</p>
+<p><img src="https://ws3.sinaimg.cn/large/006tNc79ly1fosz9o6x49g30bg0kbnpe.gif" alt=""></p>
+<p>同样的方法，点击「日记」会打开 Day One，点击「背单词」会打开 Anki 等等，几乎所有常用的 App 都可以通过 timetrack 来实现快速启动，这体验非常美好。</p>
+<p>虽然我一直主张「用工具，不要 All in one」，用不同的工具解决不同的问题，但这样的功能的组合实在是堪称完美，让人难以抗拒。</p>
+<h3 id="2-2-配合-Workflow，解锁高级玩法"><a href="#2-2-配合-Workflow，解锁高级玩法" class="headerlink" title="2.2 配合 Workflow，解锁高级玩法"></a>2.2 配合 Workflow，解锁高级玩法</h3><p>我是一个重度的播客收听者，所以在 timetrack 中预设了「播客」活动。但在国内，一个不得不面对的问题是，即便用 Overast 这样的内容聚合工具，还是无法全方位涵盖像得到 App、喜马拉雅、荔枝 FM 等所有平台的优质内容。</p>
+<p>我习惯早起听得到，通勤在喜马拉雅听付费课程，做家务用 Overcast 听大内密谈，要想实现这样的效果，简单的 URL 就不够了，为此我专门做了一个辅助的 <a href="https://workflow.is/workflows/4bc64badf9464ecaa28939003099a13e" target="_blank" rel="external">Workflow</a>，最终实现的效果如下：</p>
+<p><img src="https://ws2.sinaimg.cn/large/006tNc79ly1foszffnopmg30bg0kb1l1.gif" alt=""></p>
+<p>这样，每次在 timetrack 点击「播客」，根据不同的时段选择不同的收听内容，不仅把两个步骤合并到了一起，还减少了所有播客的收听入口，让听播客这件事完美融合到每天不同的收听场景中。</p>
+<h3 id="2-3-精美的自定义图标"><a href="#2-3-精美的自定义图标" class="headerlink" title="2.3 精美的自定义图标"></a>2.3 精美的自定义图标</h3><p>就算单纯作为一款启动器，timetrack 也有两个不得不提的亮点：</p>
+<p><strong>首先是支持活动分组。</strong>比如热爱学习的我设置了种类丰富的学习活动，这些都放在主屏的话，显得我也太热爱学习了，低调的我便把它们统统放到了学习活动的群组中，这也让主屏幕显得更清爽一些。</p>
+<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/%E5%AD%A6%E4%B9%A0%E5%88%86%E7%BB%84.png-beta3.0" alt=""></p>
+<p><strong>其次是精美的图标。</strong>下面这张图是我的活动主界面，个人觉得我精心挑选的这些图标还挺好看的，搭配不同颜色还有一定的警示作用（特意把娱乐、刷社交 App 设置了是红色）。</p>
+<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/%E5%9B%BE%E6%A0%87-1.png-beta3.0" alt=""></p>
+<p>然而，为了写这篇文章，我随手打开了一眼内置的图标库，发现最新的图标已经悄悄地达到了这个水平：</p>
+<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/%E9%9D%99%E8%B0%A7%E5%9B%BE%E6%A0%87.png-beta3.0" alt=""></p>
+<p>从单色升级到彩色，不仅有扁平风格还有拟物风格，论颜值不一定输给专业的快速启动工具。</p>
+<h2 id="3-目标，时间追踪的仪表盘"><a href="#3-目标，时间追踪的仪表盘" class="headerlink" title="3. 目标，时间追踪的仪表盘"></a>3. 目标，时间追踪的仪表盘</h2><p>「目标」在软件的 Dock 栏占据了 1/4 的位置，可谓份量十足。位置往往最能反应开发者对一个功能的重视程度，但是 timetrack 的「目标」可能是最容易被大家忽略的一项功能。坦白讲，我自己一开始也搞不清楚：有每天、每周、每月的「时间统计」，我们还需要「目标」做什么？</p>
+<p>然而，随着我对时间管理有了更多的认识，才逐渐意识到「目标」在一款自我量化的工具中的地位有多重要，它就像飞机的仪表盘一样不可或缺。</p>
+<h3 id="3-1-看到自己的进度条"><a href="#3-1-看到自己的进度条" class="headerlink" title="3.1 看到自己的进度条"></a>3.1 看到自己的进度条</h3><p>每个人都希望拥有更高的效率、更好的节奏，养成更多的好习惯，以期达成更伟大的成就。这当然有种种不易，但让很多人放弃的，不只有过程的艰辛，很多时候是看不到自己的前行，感觉一直在原地踏步的糟糕感受。所以，有没有可能，制定一个目标，然后把它分解到每一天。比如，不再是我要读 50 本书，我要养成写作的习惯，而是我希望自己可以：</p>
+<ul>
+<li>每天冥想 10 分钟</li>
+<li>每天写作 30 分钟</li>
+<li>每天看书 1 小时</li>
+<li>每天睡眠 7 小时</li>
+<li>等等</li>
+</ul>
+<p>为了确保这些习惯不只是美好的愿望，我不再只是把它们写在纸上、贴在墙上，而是直接纳入到自我量化的系统中，在 timetrack 里进行实时追踪。这样，当我做每一件事情的时候，我都知道，这个目标的进度条是在一点一点地被填满。</p>
+<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/%E7%9B%AE%E6%A0%87%E7%9A%84%E5%8A%A8%E6%80%81.png-beta3.0" alt=""></p>
+<p>那种完成每一个目标的，实实在在的前进感，能给人非常大鼓舞和力量。</p>
+<p>除了可视化之外，timetrack 会在任务达成时发出提醒，阅读、写作、冥想，不管做什么，当听到那一声清脆的铃声，我便知道，「嗯，今天的小目标，又完成了一个」，这种踏踏实实的成就感简直让人上瘾。</p>
+<h3 id="3-2-给坏习惯画一条红线"><a href="#3-2-给坏习惯画一条红线" class="headerlink" title="3.2 给坏习惯画一条红线"></a>3.2 给坏习惯画一条红线</h3><p>timetrack 不仅可以帮我们实现目标，更能让我们戒掉坏习惯，它非常人性化地对「目标」设置了两种计时方式：</p>
+<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/%E4%B8%A4%E7%A7%8D%E7%9B%AE%E6%A0%87.png-beta3.0" alt=""></p>
+<p>我希望每天刷微信微博的时间不超过 1 个小时。所以，我创建了一个「刷社交 App」的小目标，目标的规则是：不超过 1 小时。</p>
+<p>人生其实没有我们感觉的那么漫长，如果明明每次做一件事情之后会后悔，又不能完全不做，那就给自己拉一条红线，设置一个合理的范围吧，让自己不要过于沉溺其中。</p>
+<p>我每次刷微博之前点击启动计时，这其实就是在确定「你是否愿意把自己短暂且宝贵的人生耗费在这件无聊的事情上？」</p>
+<p>如果确定，也不再瞻前顾后，而是：<strong>尽！情！刷！</strong>因为我知道 timetrack 会在后台不疾不徐地走着秒针，耗费了今天的所有刷微博的时间，它也会无情地提醒我：你今天的余额不足。</p>
+<p>不得不说，这个小 Tip 对我用刷社交 App 来 kill time 还是有不小的遏制作用。</p>
+<h3 id="3-3-给单次活动瘦身，给习惯养成减压"><a href="#3-3-给单次活动瘦身，给习惯养成减压" class="headerlink" title="3.3 给单次活动瘦身，给习惯养成减压"></a>3.3 给单次活动瘦身，给习惯养成减压</h3><p>我一直以来都非常推崇通过场景切换的方式来辅助习惯养成。起床、通勤、吃饭、睡觉前都是典型的场景切换。举个例子，比如我自己，每次一上地铁，第一件事就是打开 Anki 背单词，这个习惯断断续续也坚持了快一年多的时间，</p>
+<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/anki.png-beta3.0" alt=""></p>
+<p>我最大的心得是：除了在「目标」里设定每天背诵 30 分钟单词之外，我还设定了「单次单词 10 分钟」的平行目标，也就是说每次上地铁背单词只需要完成 10 分钟就好，timetrack 会在开始后的 10 分钟提醒我。30 分钟可能让人压力不小，一个只需要 10 分钟的行动就显得轻松多了。</p>
+<h2 id="4-内置的番茄工作法让工作更加专注"><a href="#4-内置的番茄工作法让工作更加专注" class="headerlink" title="4. 内置的番茄工作法让工作更加专注"></a>4. 内置的番茄工作法让工作更加专注</h2><p>从 08 年到现在，我使用过几十款不同的番茄钟，有简洁专注的 BeFocused、有功能全面的番茄土豆、有可以种树的 Forest 等等等等，每一款工具都有自己独特的优势。</p>
+<p>我在不同的工具之间来来回回地选择，最终依然是 timetrack 终结了这个局面。自从 timetrack 内置番茄钟功能之后，我毫不犹豫地将其他番茄钟 App 都尽数雪藏了。这和前面提到的快速启动 App 的原因一样，因为时间记录和开始一个番茄钟，在逻辑上就应该合并成一个动作。即便 timetrack 的番茄钟做得中规中矩，毫无特色，但由于其内置在时间记录的工具里，拥有其他番茄钟完全无法比拟的独特优势。</p>
+<h3 id="4-1-真-·-减少操作"><a href="#4-1-真-·-减少操作" class="headerlink" title="4.1 真 · 减少操作"></a>4.1 真 · 减少操作</h3><p>我们不会所有的事情都用番茄工作法去完成，所以首先需要在 timetrack 选择会触发番茄钟的活动类别，我自己目前设置了工作、写作、专业学习这三项活动。比如，点击「工作」，系统会提示是否是启动番茄钟，可以选择使用番茄也可以选择常规计时。</p>
+<p><img src="https://ws4.sinaimg.cn/large/006tNc79ly1fot09xas1bg30bg0kb7wi.gif" alt=""></p>
+<p>虽然它没有社交、不能结合 todolist、可视化也一般，但我真心愿意用这些作为减少操作成本的代价。</p>
+<h3 id="4-2-所有活动都可备注"><a href="#4-2-所有活动都可备注" class="headerlink" title="4.2 所有活动都可备注"></a>4.2 所有活动都可备注</h3><p>番茄工作法有一个非常重要的原则：记录每一个番茄钟的完成情况，这样才能通过数据持续提升专注力。timetrack 的备注功能可以非常完美地实现这个需求。我们只需要点击番茄钟进入活动详情，在这里我们可以为活动贴标签、写备注，记录每一个活动的完成情况，补充有没有超时、有没有被打断等信息。</p>
+<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/%E5%A4%87%E6%B3%A8%E5%8A%9F%E5%91%A2%E4%B8%AA.png-beta3.0" alt=""></p>
+<h3 id="4-3-让休息也能有迹可循"><a href="#4-3-让休息也能有迹可循" class="headerlink" title="4.3 让休息也能有迹可循"></a>4.3 让休息也能有迹可循</h3><p>使用番茄钟常遇到的一个问题是休息的时间过长，本来 5 分钟的休息，一个不留神，30 分钟就过去了。但这个最容易溜走的时间大多数番茄钟并不会记录留痕。因为 timetrack 做的就是精准记录时间，当然支持把番茄钟的休息时间也关联到具体的活动类别。</p>
+<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/%E7%95%AA%E8%8C%84%E9%92%9F.png-beta3.0" alt=""></p>
+<p>所以一次休息介绍，你马上能看到，这次休息的时间有没有超过预期，超了多少，一天当中所有的休息时间也都会忠实地记录下来，这一点是大多数番茄 App 所不能及的。</p>
+<h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>自我量化不是一件容易的事情，和看书、写作、健身一样，都需要下定决心，持续坚持。在众多生产力工具当中，timetrack 是最容易被放弃的一个，因为记录时间的需求真的不那么刚需，做与不做，在短期内几乎没有任何差别。然而，就和其他所有「重要不紧急」的事情一样，虽然它们没有 deadline，虽然它们可能会占用你不少的时间，但，真的值得！</p>
+<p>柳比歇夫用怀表和纸笔都做到了这一点，更何况我们还有 timetrack 这样优秀工具的帮助。</p>
+<hr>
+<p>最后，希望大家都能用自我量化的方式更好地认识自己，也欢迎大家通过微博（@Louiscard）或者在行【链接】和我交流更多生产力工具的问题。</p>
+<p>ChangeLog：</p>
+<ul>
+<li>2018/02/25  修改 &amp; 加图</li>
+<li>2018/02/24  修改稿件 </li>
+<li>2018/02/24  初稿完成 2h</li>
+<li>2018/02/22  初稿起手 2h</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;这款帮你自我量化的工具，还能做更多&quot;&gt;&lt;a href=&quot;#这款帮你自我量化的工具，还能做更多&quot; class=&quot;headerlink&quot; title=&quot;这款帮你自我量化的工具，还能做更多&quot;&gt;&lt;/a&gt;这款帮你自我量化的工具，还能做更多&lt;/h2&gt;&lt;p&gt;目录：&lt;br&gt;0 楔子&lt;br&gt;1 强大的基础功能&lt;br&gt;1.1 便捷的时间纪录&lt;br&gt;1.2 可视化的数据呈现&lt;br&gt;1.3 提醒记录时间&lt;br&gt;2 低配的快速启动器&lt;br&gt;2.1 用 URL 倍增时间记录效率&lt;br&gt;2.2 配合 Workflow，解锁高级玩法&lt;br&gt;2.3 精美的自定义图标&lt;br&gt;3 目标，时间追踪的仪表盘&lt;br&gt;3.1 看到自己的进度条&lt;br&gt;3.2 给坏习惯画一条红线&lt;br&gt;3.3 给单次活动瘦身，给习惯养成减压&lt;br&gt;4 内置的番茄工作法让工作更加专注&lt;br&gt;4.1 真 · 减少操作&lt;br&gt;4.2 所有活动都可备注&lt;br&gt;4.3 让休息也能有迹可循&lt;br&gt;5 结语&lt;/p&gt;
+&lt;h2 id=&quot;楔子&quot;&gt;&lt;a href=&quot;#楔子&quot; class=&quot;headerlink&quot; title=&quot;楔子&quot;&gt;&lt;/a&gt;楔子&lt;/h2&gt;&lt;p&gt;Timetrack 一直是一个挺小众的 App，这跟它纪录时间的功能定位有关，即便是经常需要按小时计费的法律服务行业，真正养成计时习惯的律师也是少之又少。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://oi2xwb21j.bkt.clouddn.com/blog/085959.png-beta3.0&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;计时还有一个更高大上的名字叫：&lt;strong&gt;自我量化（Quantified Self）&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;比尔·盖茨在公开信上讨论过这个问题，他提到：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://oi2xwb21j.bkt.clouddn.com/blog/bill.001.jpeg-beta3.0&quot; alt=&quot;我深深感受到「量化措施」对于改善人类状况的重要性。如果你制订一个明确的目标并找到一种能朝着目标推进的计量手段，你就可以取得不可思议的进步。这看上去似乎是基本要求，但令人惊讶的是人们经常没能做到，做对也非常困难。&quot;&gt;&lt;/p&gt;
+&lt;p&gt;正如比尔·盖茨所说，量化很重要，也很困难，它帮助像柳比歇夫这样极致的自我量化者取得举世瞩目的成就，也帮助像 Linkedin 这样坚定的数据驱动型公司获得商业上的巨大成功。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;路径显而易见，却又艰难无比。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="时间管理" scheme="http://louiscards.com/categories/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/"/>
+    
+    
+      <category term="自我量化" scheme="http://louiscards.com/tags/%E8%87%AA%E6%88%91%E9%87%8F%E5%8C%96/"/>
+    
+  </entry>
   
   <entry>
     <title>Louiscard的「碎片周刊」| 2017/12/28</title>
@@ -411,9 +543,9 @@
       <category term="Evernote" scheme="http://louiscards.com/categories/Evernote/"/>
     
     
-      <category term="知识管理" scheme="http://louiscards.com/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/"/>
-    
       <category term="Evernote" scheme="http://louiscards.com/tags/Evernote/"/>
+    
+      <category term="知识管理" scheme="http://louiscards.com/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/"/>
     
   </entry>
   
@@ -450,9 +582,9 @@
       <category term="心智思维" scheme="http://louiscards.com/categories/%E5%BF%83%E6%99%BA%E6%80%9D%E7%BB%B4/"/>
     
     
-      <category term="时间管理" scheme="http://louiscards.com/tags/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/"/>
-    
       <category term="认知" scheme="http://louiscards.com/tags/%E8%AE%A4%E7%9F%A5/"/>
+    
+      <category term="时间管理" scheme="http://louiscards.com/tags/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/"/>
     
   </entry>
   
@@ -483,9 +615,9 @@
       <category term="英语" scheme="http://louiscards.com/categories/%E8%8B%B1%E8%AF%AD/"/>
     
     
-      <category term="Evernote" scheme="http://louiscards.com/tags/Evernote/"/>
-    
       <category term="英语" scheme="http://louiscards.com/tags/%E8%8B%B1%E8%AF%AD/"/>
+    
+      <category term="Evernote" scheme="http://louiscards.com/tags/Evernote/"/>
     
   </entry>
   
@@ -579,7 +711,7 @@
     <link href="http://louiscards.com/2017/07/10/a-talk-with-dinner/"/>
     <id>http://louiscards.com/2017/07/10/a-talk-with-dinner/</id>
     <published>2017-07-09T16:00:00.000Z</published>
-    <updated>2017-07-12T08:41:22.000Z</updated>
+    <updated>2017-07-13T13:10:50.000Z</updated>
     
     <content type="html"><![CDATA[<p>离开体制后，饭局数量居然有增无减，但多是叙旧闲聊，难得几个不一样的，结束之后总想做个笔记，怕自己过几日就记不得了。</p>
 <p>上个礼拜的饭局是冰哥邀请，有投资人、连续创业者、freelancer，基本上都是财富自由的状态，听他们聊天，有趣得很，说不上烧脑，但总觉得背后隐隐含着某种力道，阴霸无比。</p>
@@ -642,7 +774,7 @@
     <link href="http://louiscards.com/2017/07/10/Louis-s-excerpt-20170710/"/>
     <id>http://louiscards.com/2017/07/10/Louis-s-excerpt-20170710/</id>
     <published>2017-07-09T16:00:00.000Z</published>
-    <updated>2017-07-10T13:49:23.000Z</updated>
+    <updated>2017-12-27T17:41:43.000Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>说明：此专栏为Louis收录的经典语录及书影音标记，每周一更新。</p>
@@ -745,7 +877,7 @@
     <link href="http://louiscards.com/2017/07/06/Build-efficient-teams-from-the-review-system/"/>
     <id>http://louiscards.com/2017/07/06/Build-efficient-teams-from-the-review-system/</id>
     <published>2017-07-05T16:00:00.000Z</published>
-    <updated>2017-07-10T03:00:44.000Z</updated>
+    <updated>2017-07-13T13:11:13.000Z</updated>
     
     <content type="html"><![CDATA[<p>前段时间在无讼阅读上看到梁枫律师关于复盘的文章，收获颇丰。这一期的「律师效能手册」就借此来谈一谈：如何用工具打造复盘系统，帮助团队跨入高速成长的快车道。</p>
 <h2 id="重新认识复盘"><a href="#重新认识复盘" class="headerlink" title="重新认识复盘"></a>重新认识复盘</h2><p>好多词我们都听说过，比如GTD、区块链、罗伯特议事规则……但好多词，我们似乎只停留在了「听说过」。所以，打造复盘系统之前，咱们先一起重新认识下复盘这件事。</p>
@@ -900,7 +1032,7 @@
     <link href="http://louiscards.com/2017/07/03/Louis-s-excerpt-20170703/"/>
     <id>http://louiscards.com/2017/07/03/Louis-s-excerpt-20170703/</id>
     <published>2017-07-02T16:00:00.000Z</published>
-    <updated>2017-07-03T08:40:26.000Z</updated>
+    <updated>2017-12-27T17:41:43.000Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>说明：此专栏为Louis收录的经典语录及书影音标记，每周一更新。</p>
@@ -976,7 +1108,7 @@
     <link href="http://louiscards.com/2017/06/19/the-young-of-Convenient-sign/"/>
     <id>http://louiscards.com/2017/06/19/the-young-of-Convenient-sign/</id>
     <published>2017-06-18T16:00:00.000Z</published>
-    <updated>2017-06-20T15:06:57.000Z</updated>
+    <updated>2017-07-30T18:54:56.000Z</updated>
     
     <content type="html"><![CDATA[<p>初入职场，大概都听过这样的话。</p>
 <p>「小吕，没事帮我收个快递」<br>「小吕，给你邮箱，催下设计那边的进度」<br>「小吕，给你个电话，去机场接下周总」</p>
@@ -1045,7 +1177,7 @@
     <link href="http://louiscards.com/2017/06/19/differentiation-of-Legal-Services/"/>
     <id>http://louiscards.com/2017/06/19/differentiation-of-Legal-Services/</id>
     <published>2017-06-18T16:00:00.000Z</published>
-    <updated>2017-06-20T01:40:19.000Z</updated>
+    <updated>2017-07-03T07:13:06.000Z</updated>
     
     <content type="html"><![CDATA[<p>前段时间，听了峰瑞资本创始人李丰老师就专业服务升级的底层逻辑的分享，深感震撼，虽然「律师效能手册」是一档以介绍生产力工具为主的专栏，还是想用几篇文章跟大家讨论下法律服务市场的一些机会和变数，今天是第一部分，社会分工细化在法律服务行业的影响。<br><img src="http://oi2xwb21j.bkt.clouddn.com/blog/062834.jpg" alt=""></p>
 <h2 id="站在社会分工细化的趋势下看问题"><a href="#站在社会分工细化的趋势下看问题" class="headerlink" title="站在社会分工细化的趋势下看问题"></a>站在社会分工细化的趋势下看问题</h2><p>李丰老师开场先提出一个概念 ——<strong>「社会分工细化」</strong>，意思是各行各业，特别是提供职业技能的服务行业会发生越来越深刻的分化和区隔。</p>
@@ -1113,7 +1245,7 @@
     <link href="http://louiscards.com/2017/06/19/Louis-s-excerpt-20170619/"/>
     <id>http://louiscards.com/2017/06/19/Louis-s-excerpt-20170619/</id>
     <published>2017-06-18T16:00:00.000Z</published>
-    <updated>2017-07-03T07:12:44.000Z</updated>
+    <updated>2017-12-27T17:41:43.000Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>说明：此专栏为Louis收录的经典语录及书影音标记，每周一更新。</p>
@@ -1349,119 +1481,6 @@
       <category term="记忆力" scheme="http://louiscards.com/tags/%E8%AE%B0%E5%BF%86%E5%8A%9B/"/>
     
       <category term="学霸" scheme="http://louiscards.com/tags/%E5%AD%A6%E9%9C%B8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>换个方式，打造你的专属法律法规数据库</title>
-    <link href="http://louiscards.com/2017/06/07/create-your-database-of-laws-and-regulations-20170607/"/>
-    <id>http://louiscards.com/2017/06/07/create-your-database-of-laws-and-regulations-20170607/</id>
-    <published>2017-06-06T16:00:00.000Z</published>
-    <updated>2017-06-19T03:15:44.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>在律师效能手册「新建什么笔记本系列」的第二篇，我们来聊一聊如何用印象笔记打造个人专属法律法规数据库。</p>
-<p>这篇文章共三部分，分别是：</p>
-<ul>
-<li>1 为什么建立专属法律法规数据库</li>
-<li>2 为什么应该用印象笔记做这件事</li>
-<li>3 新建法律法规笔记本的具体方法</li>
-</ul>
-<p>大家可以根据需求选择性阅读。<br><a id="more"></a></p>
-<h2 id="1-为什么要建立专属法律法规数据库？"><a href="#1-为什么要建立专属法律法规数据库？" class="headerlink" title="1 为什么要建立专属法律法规数据库？"></a>1 为什么要建立专属法律法规数据库？</h2><p>法律法规是任何律师都绕不开的「生产资料」，比较常见的管理模式有以下几种：</p>
-<p>第一种：因工作环境或习惯，主要依赖法律法规的纸质汇编书籍。</p>
-<p>第二种：建立本地数据库，将法律法规以Word文档的形式存储。</p>
-<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/042247.jpg-beat1.0" alt=""></p>
-<p>第三种：不专门建立数据库，所有的检索得到地法规都只为个案服务，作为起草合同、提供意见、出具备忘录的依据，使用完后与项目文件一并归档。</p>
-<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/042647.jpg-beat1.0" alt=""></p>
-<p>随着技术的发展，各种专业的数据库越来越方便，那么，是否有了北大法宝、威科先行、无讼法规，建立本地数据库已经沦为一件稍显过时的事情了呢？</p>
-<p>笔者认为：以当下的产品功能和技术发展趋势来看，现在谈放弃本地法律法规数据库还为时尚早。</p>
-<h3 id="1-1-快即正义"><a href="#1-1-快即正义" class="headerlink" title="1.1  快即正义"></a>1.1  快即正义</h3><blockquote>
-<p>天文下武功，唯快不破</p>
-</blockquote>
-<p>法律检索亦是如此。因为不依赖网络环境，且不需要登陆操作，本地的信息检索速度要快得多。</p>
-<p>除此之外，使用本地数据库进行法律检索有非常明显的<strong>「自加速」</strong>。</p>
-<blockquote>
-<p>不需要检索＞本地数据库检索＞专业数据库检索</p>
-</blockquote>
-<p>随着经验的持续积累，需要走完整个法律检索流程的问题会越来越少，通过「本地数据库检索」的过渡，最终升级到「不需要检索」的终极状态，而这个过程会越来越快。</p>
-<h3 id="1-2-量身定制"><a href="#1-2-量身定制" class="headerlink" title="1.2  量身定制"></a>1.2  量身定制</h3><p>专业数据库要追求<strong>大而全</strong>，而律师个体更应该追求<strong>小而美</strong>，我们知道<strong>「多」永远不是优势</strong>。这就好比百度、Google收录的资料，在量级上远远超过专业的法律数据库，但我们并不觉得从百度上搜索法规案例会更有效率。</p>
-<p>信息总量越多，被检索到成本就越高。要同时满足30多万律师和更多法律从业者需求的专业数据库，必然会持续增加信息规模，也必然放弃个体而满足绝大多数用户的需求。对我们而言，它是不可或缺的辅助，但只有自己量身定制的数据库才能像个老朋友一样贴心，成为你最趁手的神兵利器。</p>
-<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/%E2%80%9Ctime%E2%80%9D%E7%9A%84%E5%9B%BE%E7%89%87%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C.png-beat1.0" alt=""></p>
-<h3 id="1-3-持续积累"><a href="#1-3-持续积累" class="headerlink" title="1.3  持续积累"></a>1.3  持续积累</h3><blockquote>
-<p>我做过1000次法律检索，我输入过上万个检索条件，每次都觉得收获颇丰，但细细想来，似乎，什么都没有留下来。</p>
-</blockquote>
-<p>相信不少律师都有这样<strong>「用完即走」</strong>的糟糕体验，觉得很多努力都不能换来真金白银的实务经验，没办法把法律研究当做真正的<strong>刻意练习</strong>和<strong>知识积累</strong>。</p>
-<p>俗话说：不动笔墨不读书。大多数人的日常阅读，都会做个书摘，以免需要相关资料时还要受逐页翻阅之苦。对畅销书尚且这般，对法律法规更当如此了。而只有打造专属的法律法规数据库，我们才有机会对法条及背后的法律本身打破重构、添补释义、迭代认知。在此基础上，持续压缩法律检索的时间成本，从每一个法条延展出去，捕获更多的信息和知识。</p>
-<h2 id="2-为什么用印象笔记建立法律法规数据库"><a href="#2-为什么用印象笔记建立法律法规数据库" class="headerlink" title="2 为什么用印象笔记建立法律法规数据库"></a>2 为什么用印象笔记建立法律法规数据库</h2><p>对律师而言，Word文档是无论如何绕不开的话题，法律法规的管理也不例外。不少人会说：<strong>思维最重要，工具都大同小异</strong>。这话说得没错，思维是绝度的关键要素，但我也坚持另一个观点：<strong>不同的信息类型在相应的承载方式上确有优劣之分，Word文档依然是我们的核心装备，但部分信息管理环节，印象笔记的表现会更加出色。</strong>这就好比在复杂诉讼中用可视化的图表会比文字表现得更优秀是同样的道理。</p>
-<p>首先是其更低的新建和二次加工成本，Word文档的新建、打开、修改、保存成本都不低，以Mac端为例，不考虑打开文件的等待时间，我们新建一个Word文档并录入信息的操作平均需要5到6个步骤：点击打开Word文档 → 录入内容 → 保存 → 选择位置 → 命名 → 关闭。而这个操作使用印象笔记可以在在一瞬间完成，使得每一次的信息录入成本大幅缩减，也能大大提升信息输入的颗粒度和敏感度。</p>
-<p>其次是强大的搜索功能。印象笔记具备高级搜索、图片搜索及笔记内文档搜索，被评价为Google级别的搜索体验，配合「相关内容推荐」功能，充分保证了法律法规的检索体验。</p>
-<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/051351.jpg-beat1.0" alt="from 法影斑斓" title="from 法影斑斓"></p>
-<p>最后是电脑和手机端的全平台调取，这将大大方便我们的移动办公需求，并为今后知识管理的一体化打下坚实的基础。</p>
-<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/051428.jpg-beat1.0" alt=""></p>
-<h2 id="3-新建法律法规笔记本的方法"><a href="#3-新建法律法规笔记本的方法" class="headerlink" title="3 新建法律法规笔记本的方法"></a>3 新建法律法规笔记本的方法</h2><p>下面，我们进入最核心的部分：如何优雅地用印象笔记打造专属法律法规数据库。</p>
-<h3 id="3-1-准入标准"><a href="#3-1-准入标准" class="headerlink" title="3.1  准入标准"></a>3.1  准入标准</h3><p><strong>严格限制准入门槛</strong>，并非所有跟法律法规沾边的东西都值得被收录。一些对法律法规的解读及指导案例等，应单独归类，而不与法规混淆。确保这个笔记本的所有内容都是可以直接作为文件起草的直接依据。一旦准入标准放宽，后期检索成本也必然提升。</p>
-<h3 id="3-2-分类体系"><a href="#3-2-分类体系" class="headerlink" title="3.2  分类体系"></a>3.2  分类体系</h3><p><strong>轻分类、重搜索是我一贯推崇的原则</strong>，不要一开始就试图将所有法律法规进行精细化的层级划分。一些对工具还不太熟悉的律师，可以从一个笔记本开始，先用一个笔记本来存储所有检索过的法律法规，不做任何分类。一段时间之后，再根据自己的业务领域，单独划分出劳动法、公司法、刑事诉讼等笔记本。</p>
-<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/060132.jpg-beat1.0" alt=""></p>
-<p>很多习惯层层嵌套文件夹的律师，在开始阶段会非常不适应印象笔记的三层架构体系，觉得完全不够用。<br><img src="http://oi2xwb21j.bkt.clouddn.com/blog/Clipboard%20-%202017-06-07%2014.32.54.jpg-beat1.0" alt=""></p>
-<p>我们以后找机会会深入聊一聊为什么<strong>信息管理不应该追求完美的精细化分类</strong>，今天先说一个基本原则</p>
-<blockquote>
-<p>整理信息的时间不应该多于搜索调取信息的时间。</p>
-</blockquote>
-<p>换句话说，对信息的整理一定要克制再克制。</p>
-<h3 id="3-3-命名方法"><a href="#3-3-命名方法" class="headerlink" title="3.3  命名方法"></a>3.3  命名方法</h3><p>命名原则应该统一、完整，一旦确定，不轻易调整。比较常见的命名方式是：<strong>「生效时间+文件全称+发布单位，如「20140729_证券公司监督管理条例（国务院 ）」</strong>，大部分关键信息都体现在了名称里，且可按照生效时间排序。</p>
-<p>不少律师都会在法律法规的文件名称前面添加序号，如「1 - 02 证券法」我不建议这种命名方式，因为积累到后期，可能会出现「5-9-14 国务院关于深化改革严格土地管理的决定2004.10.21」，编码会越来越复杂，不仅阅读体验很差且调整成本极高。</p>
-<p>还有一种命名方式我个人比较推荐，就是将同类别法律法规的主题前置。如在笔记本中，将所有跟保险相关的法律法规，前面都加上「保险」，比如<strong>「保险 - 保险公司收购合并管理办法20140601（中国保险监督管理委员会）」</strong>，同理，可以加上「证券」「劳动」等等，同主题的法律法规，就被自动归类到了一起。当然也可以用法律法规的效力级别作为名称前缀，比如<strong>「法律 - 中华人民共和国证券法20140831」</strong>、「司法解释 - 最高人民法院关于适用《中华人民共和国物权法》若干问题的解释（一）20160301」。</p>
-<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/062001.jpg-beat1.0" alt=""></p>
-<p>以上命名方式都可参考，如果采用了前置生效日期的方式，我们依然可以通过添加标签和后期搜索的方式间接达到<strong>信息聚合</strong>的效果，我们将在后面的文章中详细讲解。</p>
-<h3 id="3-4-导入方法"><a href="#3-4-导入方法" class="headerlink" title="3.4  导入方法"></a>3.4  导入方法</h3><p>我尝试了不少方法，主要有：</p>
-<ul>
-<li>浏览器剪藏</li>
-<li>下载Word文档后从正文复制</li>
-<li>直接从浏览器复制粘贴</li>
-</ul>
-<p>最终，我发现：直接从浏览器复制，这种最简单的方式恰恰是最方便且格式保存最完整的一种方式。完整到什么程度呢？</p>
-<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/062334.jpg-beat1.0" alt=""></p>
-<p>所有的格式和链接都将保存，可以点击直接跳转到相应的法律法规页面，使用体验极佳。</p>
-<p>如果你喜欢没有链接的版本，可以切换到清洁版后再进行复制，我使用的是威科先行，其他数据库类似。</p>
-<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/062443.jpg-beat1.0" alt=""></p>
-<h3 id="3-5-导入时间"><a href="#3-5-导入时间" class="headerlink" title="3.5  导入时间"></a>3.5  导入时间</h3><p>那么什么时间去导入这些法律法规呢？结合上一期提到的<strong>收件箱（Inbox）思维</strong>，一定不要一检索到法律法规就立即复制到你的法律法规的笔记本中。将项目层级的法律法规和整体数据库区分开，为个案服务的法律法规会先进入到案件专属的笔记本，可以对法律条款进行索引、高亮、加工、剪切等，这样的操作显然不太合适直接在法律法规数据库里进行。</p>
-<p>当项目结束后，集中时间去整理法律法规，将有价值的规章制度，按照相应标准批量整合到最终的数据库中方便下次复用检索。</p>
-<h3 id="3-6-后期优化"><a href="#3-6-后期优化" class="headerlink" title="3.6  后期优化"></a>3.6  后期优化</h3><p>仅仅把法律法规从网上复制到本地只是建立专属法律法规数据库的第一步。我们在这个基础之上就可以对法律法规进行更加精细化的加工整理。</p>
-<p>最简单的是可以对其进行汇编，将某一类别的法律法规，生成专属的目录索引。</p>
-<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/%E5%88%9B%E5%BB%BA%E7%9B%AE%E5%BD%95.jpg-beat1.0" alt=""></p>
-<p>在法律法规数据库中，我们也可可以建立专题笔记，将某一个问题相关的法律法规进行汇总，让法律检索工作能够真正有所沉淀。</p>
-<p>其次，我们对部分法条可以进行备注，将自己的一些理解和疑问记录在上面。这么做之后，在今后遇到所有对某一条款的相关案例、专家解读、实践经验都可以规整到这里，而不是仅仅停留在大脑中。</p>
-<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/065622.jpg-beat1.0" alt=""></p>
-<p>注意：如果使用代码块，则需要在偏好设置中开启</p>
-<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/%E4%BB%A3%E7%A0%81.png-beat1.0" alt=""></p>
-<p>同时，我们可以通过添加标签，给法规补充额外信息。</p>
-<p><img src="http://oi2xwb21j.bkt.clouddn.com/blog/070124.jpg-beat1.0" alt=""></p>
-<p>好的，以上就是新建法律法规数据库的全部内容啦，希望能给你带来一些启发。今后的文章还会分享如何将法律法规链接到到工作台、案例笔记、客户笔记，让整个信息管理系统全部打通链接，欢迎大家继续关注，我们下期见。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;在律师效能手册「新建什么笔记本系列」的第二篇，我们来聊一聊如何用印象笔记打造个人专属法律法规数据库。&lt;/p&gt;
-&lt;p&gt;这篇文章共三部分，分别是：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;1 为什么建立专属法律法规数据库&lt;/li&gt;
-&lt;li&gt;2 为什么应该用印象笔记做这件事&lt;/li&gt;
-&lt;li&gt;3 新建法律法规笔记本的具体方法&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;大家可以根据需求选择性阅读。&lt;br&gt;
-    
-    </summary>
-    
-      <category term="律师效能手册" scheme="http://louiscards.com/categories/%E5%BE%8B%E5%B8%88%E6%95%88%E8%83%BD%E6%89%8B%E5%86%8C/"/>
-    
-    
-      <category term="印象笔记" scheme="http://louiscards.com/tags/%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0/"/>
-    
-      <category term="知识管理" scheme="http://louiscards.com/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/"/>
-    
-      <category term="Evernote" scheme="http://louiscards.com/tags/Evernote/"/>
-    
-      <category term="律师" scheme="http://louiscards.com/tags/%E5%BE%8B%E5%B8%88/"/>
     
   </entry>
   
