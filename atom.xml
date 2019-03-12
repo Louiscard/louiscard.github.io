@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://louiscards.com/"/>
-  <updated>2019-03-10T15:52:06.131Z</updated>
+  <updated>2019-03-12T17:39:35.714Z</updated>
   <id>http://louiscards.com/</id>
   
   <author>
@@ -17,45 +17,67 @@
   
   <entry>
     <title></title>
-    <link href="http://louiscards.com/2019/03/10/sum-01-2/"/>
-    <id>http://louiscards.com/2019/03/10/sum-01-2/</id>
+    <link href="http://louiscards.com/2019/03/10/KM-Power-Daily-2019-03-13/"/>
+    <id>http://louiscards.com/2019/03/10/KM-Power-Daily-2019-03-13/</id>
     <published>2019-03-09T16:00:00.000Z</published>
-    <updated>2019-03-10T15:52:06.131Z</updated>
+    <updated>2019-03-12T17:39:35.714Z</updated>
     
-    <content type="html"><![CDATA[<p>  本周完成的文章：<a href="https://sspai.com/post/53188" target="_blank" rel="external">一个真正有效的「屏幕时间」使用方法</a>，<br>主要介绍了如何用 iOS 的屏幕时间抵抗手机成瘾，不过内容是少数派的付费内容，需要购买 Power+  </p>
+    <content type="html"><![CDATA[<p>此专栏为 Louiscard 的每周回顾，每周一更新。<br>如需查阅具体文章，请点击阅读原文到博客中阅读。</p>
+<h2 id="本周作品"><a href="#本周作品" class="headerlink" title="本周作品"></a>本周作品</h2><p><a href="https://sspai.com/post/53188" target="_blank" rel="external">一个真正有效的「屏幕时间」使用方法</a>，<br>本周末完成的一篇文章，主要介绍了如何用 iOS 的「屏幕时间」抵抗手机成瘾，这是我这几年以来找到的解决此问题最有效的方法没有之一。</p>
+<p>不过内容属于少数派的 Powr+ 付费内容，需要购买专栏才能阅读，因此我再这里简单透露下，核心思想其实很简单，就是：<strong>通过密码，增加系统的「强制性」。</strong>  </p>
 <a id="more"></a>
-<hr>
-<p><a href="https://collegeinfogeek.com/evernote-reorganization/" target="_blank" rel="external">Thomas’ Evernote Reorganization Project (Ep. 252)</a><br>重新整理了 Evernote 系统，从混乱中恢复。  </p>
-<p><a href="https://thesweetsetup.com/a-ulysses-shortcuts-and-working-copy-workflow-for-capturing-ideas-and-publishing-to-a-jekyll-based-blog/" target="_blank" rel="external">A Ulysses, Shortcuts, and Working Copy Workflow for Capturing Ideas and Publishing to a Jekyll-Based Blog</a><br>强大的流程，在 iOS 中完成所有内容的成产和发布。  </p>
-<p>Growing IO 出品了 <a href="https://www.growingio.com/ebook/2018-growth-white-paper?utm_campaign=%E5%B8%82%E5%9C%BA%E6%B4%BB%E5%8A%A8&amp;utm_medium=article&amp;utm_source=EDM&amp;utm_content=2018whitepaper&amp;utm_term=content&amp;gio_link_id=nomA0Moz" target="_blank" rel="external">2018 增长白皮书</a><br>关于黑客增长国内比较权威的机构，内容支持免费下载。  </p>
-<h3 id="优化了写作的方式，更加注重资料的占有和引用"><a href="#优化了写作的方式，更加注重资料的占有和引用" class="headerlink" title="优化了写作的方式，更加注重资料的占有和引用"></a>优化了写作的方式，更加注重资料的占有和引用</h3><p>在完成少数派的写作任务中尝试花费更多时间在资料的收集和阅读上，虽然最后效果有诸多不足，但过程让自己比较满意。</p>
-<p><img src="http://image.louiscards.com/blog/163157.jpg-beta3.0" alt="image.png"> </p>
-<p><strong>双拼，总算见到了希望</strong><br>双拼是一件，一旦开始，就很难回头的道路，不过，什么时候，当你拿着别人的手机，发现已经几乎无法使用全拼的时候，大概率，你终于要结束这段颇为痛苦的适应过程了，然后就是「苦尽甘来」。  </p>
-<p><strong>修改时间记录的项目</strong><br>将线上的阅读归并到「清空 inbox」，因为大多数时候处理 Rss 和 微信订阅号的内容称不上阅读，更像是一种「快速处理」或「快速筛选」。  </p>
-<p>虽然有时候遇到一些 2 min 可以读完的内容就直接阅读了，但是这个过程和清空很难剥离开。  </p>
-<p>因此，把 阅读限缩解释为「读书」和「阅读印象笔记」。  </p>
-<p>Clear OmniFocus 的过程区分 inbox clear 和 today todolist，后者纳入到「目标检视和 OF」  </p>
-<p><strong>能不能留下点实在的东西</strong><br>这是我最近对工作和日常学习的一个新的感受，这也是一个新的标准。</p>
-<h3 id="李笑来微博转的一句话："><a href="#李笑来微博转的一句话：" class="headerlink" title="李笑来微博转的一句话："></a>李笑来微博转的一句话：</h3><blockquote>
+<h2 id="本周看了啥"><a href="#本周看了啥" class="headerlink" title="本周看了啥"></a>本周看了啥</h2><p><a href="https://collegeinfogeek.com/evernote-reorganization/" target="_blank" rel="external"><strong>Thomas’ Evernote Reorganization Project (Ep. 252)</strong></a></p>
+<p>这是一个播客节目，不过 Thomas 同时会将其录制成视频。他主要介绍了自己如何整理 Evernote，将其从混乱中恢复秩序。两位主播花了不少时间吐槽 Evernote 存在的一些问题，不过我看他最新的 Newsletter 表示：还是决定把 Evernote 作为主要笔记类生产力工具。</p>
+<p>不吹不黑，对于大多数人的需求，Evernote 都表现优秀，特别是一些基础功能上，这十几年的打磨已经拉开和其他同类工具不短的距离，不过 Notion 和 Quip 的一些功能真的好用，希望大象能多多学习呀。  </p>
+<p><a href="https://thesweetsetup.com/a-ulysses-shortcuts-and-working-copy-workflow-for-capturing-ideas-and-publishing-to-a-jekyll-based-blog/" target="_blank" rel="external"><strong>A Ulysses, Shortcuts, and Working Copy Workflow for Capturing Ideas and Publishing to a Jekyll-Based Blog</strong></a>  </p>
+<p>非常硬核的文章，硬核到我只是剪藏到笔记都没敢启动阅读，文章介绍了如何在 iOS 中搭建一套强大的系统完成从内容的生产和发布的全部流程。  </p>
+<p><a href="https://www.growingio.com/ebook/2018-growth-white-paper?utm_campaign=%E5%B8%82%E5%9C%BA%E6%B4%BB%E5%8A%A8&amp;utm_medium=article&amp;utm_source=EDM&amp;utm_content=2018whitepaper&amp;utm_term=content&amp;gio_link_id=nomA0Moz" target="_blank" rel="external"><strong>2018 增长白皮书</strong></a>  </p>
+<p>这个白皮书由国内最头部的数据分析平台 Growing IO 出品，，虽然这本小册子有很多宣传广告，不过依然还是值得一读，主要是：支持免费下载。</p>
+<p><strong>李笑来微博转的一句话：</strong></p>
+<blockquote>
 <p>愚昧就是全然活在未经校正的直觉当中。</p>
 </blockquote>
-<p>很喜欢的一句话</p>
+<p>不过，要想校验准确，一个人得给自己找多少麻烦，这条路不好走。</p>
+<p><a href="https://www.sarahdoody.com/work-faster-with-these-7-omnigraffle-tips/" target="_blank" rel="external"><strong>How to Wireframe Faster With These 7 Omnigraffle Tips</strong></a></p>
+<p>周末读到一篇介绍 OmniGraffle 的文章，非常喜欢里面的一句话：</p>
 <blockquote>
 <p>Know your tool. Know your tool as well as you can. Know your tool as fast as you can.</p>
+<p>了解你的工具，尽可能地了解你的工具，尽可能快地了解你的工具。</p>
 </blockquote>
-<p><a href="https://www.sarahdoody.com/work-faster-with-these-7-omnigraffle-tips/" target="_blank" rel="external">link</a></p>
+<p>几乎第一时间，我就将其放到了我的素材库里，以后跟大家推荐各种工具，可以先用这句话给大家打打鸡血。</p>
+<p>顺便说一句：感谢工作，让我又被迫点亮了一个新的技能点：画流程图和线框图。🥳</p>
+<h2 id="本周升级"><a href="#本周升级" class="headerlink" title="本周升级"></a>本周升级</h2><h3 id="优化了写作方式，更加注重资料的占有和引用"><a href="#优化了写作方式，更加注重资料的占有和引用" class="headerlink" title="优化了写作方式，更加注重资料的占有和引用"></a>优化了写作方式，更加注重资料的占有和引用</h3><p>周末的写作中尝试了花费更多时间在资料的收集和阅读上，坦白讲，最后收集的资料起到的帮助有限，不过整个过程让我非常满意，也更接近自己期待的那种「硬朗」的写作风格。</p>
+<p><img src="http://image.louiscards.com/blog/163157.jpg-beta3.0" alt="image.png"> </p>
+<p>总之，正如我当年写公文的时候领导反复强调的：</p>
+<blockquote>
+<p>占有资料是第一位。</p>
+</blockquote>
+<p>相比于写作，准备写作同样重要。</p>
+<h3 id="双拼，总算见到了希望"><a href="#双拼，总算见到了希望" class="headerlink" title="双拼，总算见到了希望"></a>双拼，总算见到了希望</h3><p>双拼是一件：一旦开始，就很难回头选择。不过，什么时候，当你拿着别人的手机，发现已经几乎无法正常使用全拼的时候，大概率，你终于要结束这段颇为痛苦的适应过程了，然后就是<strong>苦尽甘来</strong>。</p>
+<p>更快的速度，更少的错误率，更舒适的节奏的双拼，推荐你也试试。  </p>
+<h3 id="优化自我量化的规则"><a href="#优化自我量化的规则" class="headerlink" title="优化自我量化的规则"></a>优化自我量化的规则</h3><p>将所有线上的阅读行为归并到「清空 inbox」的项目，因为大多数时候处理 RSS 和微信订阅号的消息称不上阅读，更像是一种「快速筛选」。  </p>
+<p>即便有时候遇到一些 2 分钟可以读完的内容直接阅读了，严格意义算是「阅读」，但是这个过程和清空很难剥离。因此，我把「阅读」限缩解释为读书和阅读印象笔记的文章这类的行为。  </p>
+<p>同样，将 Clear OmniFocus 的过程从「清空 inbox」拿出来，全部纳入到「目标检视和 OF」的项目中。</p>
+<p>目前看，这个调整的效果不错。  </p>
+<h3 id="能不能留下点实在的东西"><a href="#能不能留下点实在的东西" class="headerlink" title="能不能留下点实在的东西"></a>能不能留下点实在的东西</h3><p>这是我最近对工作和学习的一个新感受，也算是我确立的一个新标准。不管是组织一次 Campaign、接待一个客户、完成一部作品、看一篇文章，不管做什么，看看你能不能留下点什么，而且尽量留下那些可以复用的外化资料而非虚无缥缈的「经验」。</p>
+<hr>
+<p><strong>关于作者：</strong><br>Louiscard 是一名科技公司的产品运营，同时他还是一位生产力教练、 Power user、印象笔记认证咨询师、少数派专业作者。他擅长用工具打造高效生产力系统，并通过在行平台为律师、心理咨询师、医生、创业者、投资人等知识工作者提供咨询服务，欢迎长按二维码约他喝咖啡。</p>
+<p><img src="http://image.louiscards.com/blog/2a50c90a66dda129.png-beta3.0" alt=""></p>
+<p>在行页面：<a href="http://www.zaih.com/mentor/84827713/" target="_blank" rel="external">http://www.zaih.com/mentor/84827713/</a><br>少数派专栏：<a href="https://sspai.com/series/26" target="_blank" rel="external">https://sspai.com/series/26</a></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;  本周完成的文章：&lt;a href=&quot;https://sspai.com/post/53188&quot;&gt;一个真正有效的「屏幕时间」使用方法&lt;/a&gt;，&lt;br&gt;主要介绍了如何用 iOS 的屏幕时间抵抗手机成瘾，不过内容是少数派的付费内容，需要购买 Power+  &lt;/p&gt;
+      &lt;p&gt;此专栏为 Louiscard 的每周回顾，每周一更新。&lt;br&gt;如需查阅具体文章，请点击阅读原文到博客中阅读。&lt;/p&gt;
+&lt;h2 id=&quot;本周作品&quot;&gt;&lt;a href=&quot;#本周作品&quot; class=&quot;headerlink&quot; title=&quot;本周作品&quot;&gt;&lt;/a&gt;本周作品&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://sspai.com/post/53188&quot;&gt;一个真正有效的「屏幕时间」使用方法&lt;/a&gt;，&lt;br&gt;本周末完成的一篇文章，主要介绍了如何用 iOS 的「屏幕时间」抵抗手机成瘾，这是我这几年以来找到的解决此问题最有效的方法没有之一。&lt;/p&gt;
+&lt;p&gt;不过内容属于少数派的 Powr+ 付费内容，需要购买专栏才能阅读，因此我再这里简单透露下，核心思想其实很简单，就是：&lt;strong&gt;通过密码，增加系统的「强制性」。&lt;/strong&gt;  &lt;/p&gt;
     
     </summary>
     
-      <category term="未分类" scheme="http://louiscards.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+      <category term="每周回顾" scheme="http://louiscards.com/categories/%E6%AF%8F%E5%91%A8%E5%9B%9E%E9%A1%BE/"/>
     
     
-      <category term="未分类" scheme="http://louiscards.com/tags/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+      <category term="每周回顾" scheme="http://louiscards.com/tags/%E6%AF%8F%E5%91%A8%E5%9B%9E%E9%A1%BE/"/>
     
   </entry>
   
