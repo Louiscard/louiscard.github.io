@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://louiscards.com/"/>
-  <updated>2019-05-04T06:23:52.000Z</updated>
+  <updated>2019-05-06T02:22:33.000Z</updated>
   <id>http://louiscards.com/</id>
   
   <author>
@@ -14,6 +14,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Ulysses 访谈：谈谈写作、Ulysses 和我的利器</title>
+    <link href="http://louiscards.com/2019/05/06/Ulysses-%E8%AE%BF%E8%B0%88%EF%BC%9A%E8%B0%88%E8%B0%88%E5%86%99%E4%BD%9C%E3%80%81Ulysses-%E5%92%8C%E6%88%91%E7%9A%84%E5%88%A9%E5%99%A8/"/>
+    <id>http://louiscards.com/2019/05/06/Ulysses-访谈：谈谈写作、Ulysses-和我的利器/</id>
+    <published>2019-05-05T16:00:00.000Z</published>
+    <updated>2019-05-06T02:22:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="1-跟我们说说你吧，你现在做什么呢？"><a href="#1-跟我们说说你吧，你现在做什么呢？" class="headerlink" title="1. 跟我们说说你吧，你现在做什么呢？"></a>1. 跟我们说说你吧，你现在做什么呢？</h3><p>我的主要工作是在一家科技公司负责用户增长和客户成功，我们通过大数据和人工智能技术研发辅助法官、检察官、律师更高效地工作的工具，解放法律人的生产力。</p>
+<p>我的斜杠事业是为知识工作者提供高效生产力系统的咨询，周末不加班的时候会通过<a href="http://www.zaih.com/mentor/84827713" target="_blank" rel="external">在行</a>接单，在咖啡馆或者 WeWork 给大家做分享。除此之外，我还是少数派的签约作者，最近刚刚完成了 <a href="https://sspai.com/series/26" target="_blank" rel="external">Evernote 教程</a>的更新，最近又开启了 OmniOutliner 教程的编写。</p>
+<a id="more"></a>
+<h3 id="2-写作在你生活中扮演怎样的角色呢？你通常的写作主题是什么？"><a href="#2-写作在你生活中扮演怎样的角色呢？你通常的写作主题是什么？" class="headerlink" title="2. 写作在你生活中扮演怎样的角色呢？你通常的写作主题是什么？"></a>2. 写作在你生活中扮演怎样的角色呢？你通常的写作主题是什么？</h3><p>写作在我的生活中扮演着非常多样的角色，每一种角色都各不相同，但对我而言，每一个都非常重要：</p>
+<p><strong>知识管理的闭环：</strong>10年之前，我用 wiki 工具打造了第一代知识管理系统，经过无数次崩溃重启、迭代优化，这套系统终于齿轮咬合，运行平稳，基本形成了一整套以 Evernote、OmniOutliner、XMind、Anki、Ulysses 等工具为基础，信息的输入、整理、内化、输出为流程的个人知识管理解决方案。一开始，我着迷于大吞吐量的输入、深度高频的思考，而如今，我更沉醉于对某个主题持续稳定地输出。知识管理本身更趋近于手段，而写作，大大增强了它的目的性，让信息的流转形成真正的闭环。</p>
+<p><strong>品牌打造的手段：</strong>我觉得写作是建立个人品牌最有效的方式，几乎没有之一。相对于线下咨询和企业培训，写作的杠杆要高出几个数量级。所以，相对于贩卖时间，我越来越倾向于写成文章，有价值的内容会以更低的成本被更多人看到，而这些内容聚集起来还会成为咨询方案和培训产品的基础材料。有时候拜访客户，对方收起我的名片，笑着说：我看过你写的文章，每到这时候，我就知道，这一次交流的沟通成本和信任成本，都会被降到最低，大概率我会有一段相对美好的体验。</p>
+<p><strong>自我认知的途径：</strong>我非常重视总结复盘，用 Day One 写了好几年的日记。写作是一件边界很大的事情，我从来不觉得只有发表在公众号和博客的内容才算正经的写作，恰恰相反，我觉得那些可能永远不会公之于众的文字对自己反而更重要。每天的任何时间，任何场景，我都可能掏出手机或者打开电脑，噼里啪啦敲几行，时时刻刻的总结复盘。在睡觉之前，也会回顾自己一整天的生活，把它们记录在日记中。写下来的过程，也是自我治愈的过程，这样的写作帮我度过最艰难的日子，让我能够在更多时间保持内心的喜乐平和。</p>
+<h3 id="3-你最喜欢-Ulysses-的是什么？"><a href="#3-你最喜欢-Ulysses-的是什么？" class="headerlink" title="3. 你最喜欢 Ulysses 的是什么？"></a>3. 你最喜欢 Ulysses 的是什么？</h3><p>Ulysses 有非常多优秀的功能，比如打字机模式、黑暗主题、灵活的快捷键设置、支持 Text Expander 等等，然而我最喜欢 Ulysses 的一个原因是：<strong>Ulysses 大幅度减少了我的写作成本。</strong></p>
+<p>比如对多个设备的支持和同步机制，为我提供了一个可以随时随地进入写作状态的绝佳体验，我可以在 MacBook、iPad、iPhone 上无缝接续自己的写作活动。因此，吃完饭后的 10 分钟，会议开始前的 10 分钟，地铁通勤的半小时，都可以变成高质量的写作时间。一旦「开始写作」的成本被大幅度减少，只要你开始敲键盘，剩下的问题，都不构成实质性威胁。</p>
+<p>内置的文库功能也是我选择 Ulysses 的重要原因。一直以来，我的写作模式更倾向于「计划经济」，我会走完梳理思路、收集资料、修改提纲、完成初稿、修改校对的全部流程。整个过程需要多个工具配合，因此，大部分时候也只能在 MacBook 完成。直到我开始使用 Ulysses 才彻底改变了这个习惯，Ulysses 提供的内置文库轻松管理着我所有的写作项目，我的全部选题和卡片都在 Ulysses 存储。</p>
+<p><img src="http://image.louiscards.com/blog/121747.png-beta3.0" alt="" title="我的 Ulysses 页面"></p>
+<p>我模仿了一个 Scrivener 的写作项目设置，借鉴了纳博科夫的卡片写作模式，把所有的主题分为 Drafts、Cards、Archive 三个组，在 Drafts 里完成当下的文章编写，在 Cards 积累日常各种这个主题的零碎思考，而所有发表的文章会移动到 Archive 中归档。所有的写作项目都可以在一个工具上完成，且可以随时开始，说实话，这对我的帮助太大了！</p>
+<p><img src="http://image.louiscards.com/blog/123127.png-beta3.0" alt=""></p>
+<p>最后还有它的搜索功能，Ulysses 虽然是一款写作工具，但是它的搜索功能做得相当出色，这也我能把它作为核心生产力工具的重要原因之一。比如，突然想明白一个道理，觉得简直是妙手偶得，我一般会先在 Ulysses 写一张卡片，但有一个不可回避的问题，这个主题会不会在之前已经写过了呢？这时候我就会在这个主题的 Cards 组中先查询下关键词。还有时候需要写一篇文章，除了搜索网络、Evernote 之外，自己之前写过的文章也是重要的资料来源，这时候全库搜索就显得非常好用啦。</p>
+<h3 id="4-除了-Ulysses-你还会用什么其他写作工具呢？或者有什么你特别喜欢的-App-想与我们分享？"><a href="#4-除了-Ulysses-你还会用什么其他写作工具呢？或者有什么你特别喜欢的-App-想与我们分享？" class="headerlink" title="4. 除了 Ulysses 你还会用什么其他写作工具呢？或者有什么你特别喜欢的 App 想与我们分享？"></a>4. 除了 Ulysses 你还会用什么其他写作工具呢？或者有什么你特别喜欢的 App 想与我们分享？</h3><p><strong><a href="https://github.com/" target="_blank" rel="external">GitHub</a>：与编辑的协同利器。</strong>在写 Evernote 付费教程的时候，我和编辑全程通过 GitHub 进行协作和版本控制，我们在 GitHub 创建一个项目，使用本地客户端管理文档，用 Ulysses 添加外部文件夹，这样在 Ulysses 写作，一键上传到 GitHub，每一次修改的版本都会保存，编辑改完之后，我这边能清楚地看到所有修改的地方，即便 3 个人一起也不会混乱，当然 Ulysses 自己是有版本快照功能功能的，如果不涉及到协作，自带的功能就完全够用。</p>
+<p><img src="http://image.louiscards.com/blog/123639.png-beta3.0" alt=""></p>
+<p><strong><a href="https://markdown-here.com/" target="_blank" rel="external">Markdown here</a>： 一秒钟排版。</strong>这是一款我非常喜欢的 Chrome 插件，最开始是帮助用 Markdown 写邮箱的人渲染出漂亮的格式，我们可以用它给微信公众号的文章排版，真的只需要 1 秒钟，大幅度减少发布公众号文章的后期成本。</p>
+<p><img src="https://ws1.sinaimg.cn/large/006tNc79ly1fqa75hqn6mg30ow0e0nf2.gif" alt=""></p>
+<p><strong><a href="https://trello.com/" target="_blank" rel="external">Trello：管理写作选题</a>。</strong>想写的东西太多，不知道该选哪个，或者想写的东西太少，总是无从下笔。这个困扰了我很久，也尝试过用很多方法尝试管理我的写作选题，但效果都一般。去年年底，我看了少数派的 Trello 选题看板，这给了我巨大的启发。</p>
+<p><img src="http://image.louiscards.com/blog/DraggedImage.294e2df1dc9849d288645ecb822649ff.png-beta3.0" alt="" title="sspai 的写作看板"></p>
+<p>于是我自己也马上制作了属于自己的写作选题看板，维护我想要写的主题。<br><img src="http://image.louiscards.com/blog/133433.png-beta3.0" alt=""></p>
+<h3 id="5-你理想的生活或是工作状态是怎样的呢？"><a href="#5-你理想的生活或是工作状态是怎样的呢？" class="headerlink" title="5. 你理想的生活或是工作状态是怎样的呢？"></a>5. 你理想的生活或是工作状态是怎样的呢？</h3><p>我希望有越来越强大的掌控力和节奏感（大概是因为天蝎座），每天在 6 点之前起床，完成自己的晨间仪式，跑步，清空收件箱，给家人做早餐，然后安排好一天的事项，全身心投入到工作中、下班回家可以看看电影，读读小说，写 1000 字，完成睡前仪式，获得 7 小时以上的安眠。关键是，能够始终做自己喜欢的事情，享受过程。</p>
+<h3 id="6-未来你对-Ulysses-有什么期待？或是希望增添的功能？"><a href="#6-未来你对-Ulysses-有什么期待？或是希望增添的功能？" class="headerlink" title="6. 未来你对 Ulysses 有什么期待？或是希望增添的功能？"></a>6. 未来你对 Ulysses 有什么期待？或是希望增添的功能？</h3><p>作为 Ulysses 的铁粉，在这个环节就不客气了，一口气提三个需求：</p>
+<p>1）支持发布到微信公众号：可以像发布到 Medium 一样把文章直接发布到微信公众号，如果能带着我喜欢的样式那就太完美了。</p>
+<p>2）生成长图片：写作的内容无论是 Markdown 格式还是 Html 格式，可以直接导出成图片，很多时候，在写成文章之前，我希望以图片的形式发布在微信朋友圈或者微博上。</p>
+<p>3）内置图床功能：图片粘贴到 Ulysses 之后，可以一键将文章中的图片上传到图床服务器并补充好地址，不再需要第三方工具，对每一张图片逐一上传获取地址再贴到图片。</p>
+<h3 id="7-最后送给-Ulysses-一句话吧。"><a href="#7-最后送给-Ulysses-一句话吧。" class="headerlink" title="7. 最后送给 Ulysses 一句话吧。"></a>7. 最后送给 Ulysses 一句话吧。</h3><p>希望 Ulysses 越来越好，为更多创造者提供美好的写作体验。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;1-跟我们说说你吧，你现在做什么呢？&quot;&gt;&lt;a href=&quot;#1-跟我们说说你吧，你现在做什么呢？&quot; class=&quot;headerlink&quot; title=&quot;1. 跟我们说说你吧，你现在做什么呢？&quot;&gt;&lt;/a&gt;1. 跟我们说说你吧，你现在做什么呢？&lt;/h3&gt;&lt;p&gt;我的主要工作是在一家科技公司负责用户增长和客户成功，我们通过大数据和人工智能技术研发辅助法官、检察官、律师更高效地工作的工具，解放法律人的生产力。&lt;/p&gt;
+&lt;p&gt;我的斜杠事业是为知识工作者提供高效生产力系统的咨询，周末不加班的时候会通过&lt;a href=&quot;http://www.zaih.com/mentor/84827713&quot;&gt;在行&lt;/a&gt;接单，在咖啡馆或者 WeWork 给大家做分享。除此之外，我还是少数派的签约作者，最近刚刚完成了 &lt;a href=&quot;https://sspai.com/series/26&quot;&gt;Evernote 教程&lt;/a&gt;的更新，最近又开启了 OmniOutliner 教程的编写。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="其他" scheme="http://louiscards.com/categories/%E5%85%B6%E4%BB%96/"/>
+    
+    
+      <category term="其他" scheme="http://louiscards.com/tags/%E5%85%B6%E4%BB%96/"/>
+    
+  </entry>
   
   <entry>
     <title>阻碍我们成为 Writer 的，究竟是什么？</title>
@@ -1158,91 +1208,6 @@
       <category term="英语" scheme="http://louiscards.com/tags/%E8%8B%B1%E8%AF%AD/"/>
     
       <category term="Evernote" scheme="http://louiscards.com/tags/Evernote/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Louiscard的「每周语文」| 20170718</title>
-    <link href="http://louiscards.com/2017/07/17/Louiscard-s-excerpt-20170718/"/>
-    <id>http://louiscards.com/2017/07/17/Louiscard-s-excerpt-20170718/</id>
-    <published>2017-07-16T16:00:00.000Z</published>
-    <updated>2018-11-13T12:10:59.094Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote>
-<p>说明：此专栏为Louiscard收录的经典语录及书影音标记，每周一更新。</p>
-</blockquote>
-<p>知识的敌人不是物质，而是已经掌握知识的幻觉。 —— 史蒂芬·霍金<br><img src="http://image.louiscards.com/blog/161749.jpg-bate2" alt=""></p>
-<h2 id="Learner-学习"><a href="#Learner-学习" class="headerlink" title="Learner | 学习"></a>Learner | 学习</h2><p>“The only way to ensure success is to take responsibility for getting the information you need  —— unknown</p>
-<p>爱好是有知识产生的，知识愈准确，爱好也就愈强烈。—— 达芬奇</p>
-<p>祝愿在座每一个人能够在这个疯狂的时代里，找到内心的平静，能够不疾不徐、笃定地走在自己的路上，能够自由地主宰属于你自己的这短暂的一生。—— ky创始人</p>
-<p>随着人工智能的发展，只要能够被结构化的知识，都会被机器学习所取代。于是这个时代，价值创造的源泉就是人的创造力。  —— unknown</p>
-<a id="more"></a>
-<p>Focus is a big part of my approach to growth,  and how I build growth machines. —— Brian Balfour</p>
-<p>成长就像上坡，要多做难而有意义的事情。而做事本身只要不忘初心，就能越跑越快，中间也会看到更多不一样的风景。—— 蒋勇</p>
-<p><strong>也许你根本就写不出什么来，而那才是你迟迟不肯动笔的原因。 —— 海明威</strong></p>
-<p>connect the dots —— Steve Jobs （原本是一种游戏，后指把事物点滴串联后去作理解，理清头绪，琢磨出答案）<br><img src="http://image.louiscards.com/blog/145149.jpg-bate2" alt=""></p>
-<p>三体里的一个说法很极端但很sharp：失去了人性，会失去很多；失去了兽性，则会失去一切。我们读书人，尤其要警醒。—— unknown</p>
-<h2 id="Logos-理性"><a href="#Logos-理性" class="headerlink" title="Logos | 理性"></a>Logos | 理性</h2><p>技术革命带来产业革命，产业革命带来财富重新配置革命，财富革命打破阶层固化。 <strong>这个年代，最大的风险是，你什么都没做。</strong>——  陈立飞（Spenser）</p>
-<p>不同的并购浪潮，并不是简单的企业合并或者是控制权转移，而是控制权转型。—— 丁宁</p>
-<p>我们一定要有一个坚定不移的深刻的理念，相信整个世界终究是为技术所驱动的。—— 陆奇<br><img src="http://image.louiscards.com/blog/162314.jpg-bate2" alt=""></p>
-<p>Who cares what technology you use, as long as it works, and both you and your users are happy with it? … Be selective in your pursuit of the shiny and new, and you may find yourself a better developer for it.  —— Jeff Atwood（有选择性的追求新鲜的事物，你将成为一个更好的开发者，这同样适合于几乎所有行业）</p>
-<p>领军人物的几个特征  —— 柳传志</p>
-<ul>
-<li>目标高远，意志坚定</li>
-<li>心胸开阔，情商要高</li>
-<li>企业利益放在第一位</li>
-<li>学习能力强，爱学习且会学习</li>
-</ul>
-<h2 id="Wisdom-般若"><a href="#Wisdom-般若" class="headerlink" title="Wisdom | 般若"></a>Wisdom | 般若</h2><p>人心，一般不会死在大事上，而是那些一次一次的小失望，成了致命伤。 —— unknown</p>
-<p>We live to fight another day. —— Jeremy Liew</p>
-<p>当一个死水般的体制内出现一个活跃的变数时，所有的腐臭都站在了光明的对面 —— unknown</p>
-<p><strong>我拥有的都是侥幸，我失去的都是人生。—— 张悬</strong><br><img src="http://image.louiscards.com/blog/162351.jpg-bate2" alt=""></p>
-<p>Find something bigger than yourself. —— 万维钢</p>
-<p>如何你的愤怒随着时间减弱，你就是做了不公正的事。如果你的愤怒与日俱增，那你肯定经受了不公平的待遇。 —— 塔勒布</p>
-<p>千万不要张口喊理想，做事掉链子！—— unknown</p>
-<p>蒋介石对秘书说：毛泽东实在不可轻视！他嗜烟如命，手执一缕，绵绵不断。但他知我不吸烟后，在同我谈话的期间，竟绝不抽一支！ 启示：看一个人今后的发展如何，就看一个人对本能欲望的自我控制能力。如果你可以控制你的饮食、睡眠、懒惰和抱怨的嘴，那你就离成功不远了！ —— 得到</p>
-<h2 id="Joyful-欢喜"><a href="#Joyful-欢喜" class="headerlink" title="Joyful | 欢喜"></a>Joyful | 欢喜</h2><p>The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. —— Frederick P Brooks Jr., Mythical Man-Month</p>
-<p>我是退休了为了改变世界才去教书，不是一直不能打才沦落到去教书。—— xdite</p>
-<p><strong>在时间的乱山碎石中流过，两岸的景致并不重要，重要的是溪流将流向沃野还是沙漠。 —— 米兰·昆德拉</strong></p>
-<p>我天性不宜交际。在多数场合，我不是觉得对方乏味，就是害怕对方觉得我乏味。可是我既不愿忍受对方的乏味，也不愿费劲使自己显得有趣，那都太累了。我独处时最轻松，因为我不觉得自己乏味，即使乏味，也自己承受，不累及他人，无需感到不安。—— 周国平</p>
-<h2 id="Tool-利器"><a href="#Tool-利器" class="headerlink" title="Tool | 利器"></a>Tool | 利器</h2><p>Quizlet | 虽然背单词目前还在使用Anki，但是不断看到大家推荐这款单词学习APP，所以上手试用下。相比Anki，它更加专注于单词的学习，有书写、配对等不同的学习、测试模式，可以创建自己的学习卡片集或使用别人上传的内容。无论是汉化、使用体验、学习小组都优于Anki，推荐给大家。（虽然如此，我还是坚定地使用Anki 🤣 就是这么死忠粉）<br><img src="http://image.louiscards.com/blog/151252.jpg-bate2" alt=""></p>
-<h2 id="Notes-总结"><a href="#Notes-总结" class="headerlink" title="Notes | 总结"></a>Notes | 总结</h2><p>电影</p>
-<ul>
-<li><a href="https://movie.douban.com/subject/1292288/" target="_blank" rel="external">《公民凯恩》</a>| 每周一部电影，对于这个时期的我来说，真是一件奢侈的事情。但是我依然为自己没有错过这部1941上映的老电影而感到幸福。一个人的一生，从被遗弃到几乎拥有一切，到逐渐失去所有。现在回想起KANE先生的一生依然忍不住叹一声「擦、还是牛x」！重新定义新闻报道、打败纪实报、泡到总统的侄女、竞选州长、购买雕塑、为爱人修建宫殿……一直到几乎失去一切，看到水晶球，想起来那个离家的雪夜，Rosebud，是他失去的还是未曾拥有的，总之，最后都化为了冲天的灰烬。<br>  <img src="http://image.louiscards.com/blog/161453.jpg-bate2" alt=""></li>
-</ul>
-<p>书籍</p>
-<ul>
-<li><a href="https://book.douban.com/subject/26895988/" target="_blank" rel="external">《学习之道》</a>| 基本上成为学霸的所有技巧都在这里了，看过不少市面上包装在知识经济下的学习能力提升的课程，再看这本书，觉得，简直清新脱俗到让人感动，（几乎所有的内容都有脚注，严谨细致的学术风格，比那些未经验证的二把刀技巧靠谱太多！）即便是之前看过芭芭拉教授在coursera上的课程，也可以快速浏览一遍，相信我，一定会有巨大的收获。</li>
-</ul>
-<p>音乐</p>
-<ul>
-<li><a href="https://music.douban.com/subject/26302435/" target="_blank" rel="external">Carrie &amp; Lowell</a> | 这是某个Power user群小伙伴推荐的，说很适合在夏天听。嗯，怎么说呢，如果你是想要听沙滩和Sunshine就不要关注了。每首曲子都非常的寂寞孤苦，全是亲爱的Sufijan老师对母亲归去的思念与哀愁。和其他的专辑不同，几乎整张专辑都是双声线，忧郁孤独地在嘈杂和混乱的世界，寻求从痛苦里得到最后的救赎。专辑封面就是Sufijan的母亲和继父，感兴趣的可以稍微了解下专辑的创作背景，听起来会更容易体会。于我自己，在最喜爱的歌手list又果断新加一人。<br>  <img src="http://image.louiscards.com/blog/Carrie%20&amp;%20Lowell.jpg-bate2" alt=""></li>
-</ul>
-<p>其他</p>
-<ul>
-<li>无</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote&gt;
-&lt;p&gt;说明：此专栏为Louiscard收录的经典语录及书影音标记，每周一更新。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;知识的敌人不是物质，而是已经掌握知识的幻觉。 —— 史蒂芬·霍金&lt;br&gt;&lt;img src=&quot;http://image.louiscards.com/blog/161749.jpg-bate2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;Learner-学习&quot;&gt;&lt;a href=&quot;#Learner-学习&quot; class=&quot;headerlink&quot; title=&quot;Learner | 学习&quot;&gt;&lt;/a&gt;Learner | 学习&lt;/h2&gt;&lt;p&gt;“The only way to ensure success is to take responsibility for getting the information you need  —— unknown&lt;/p&gt;
-&lt;p&gt;爱好是有知识产生的，知识愈准确，爱好也就愈强烈。—— 达芬奇&lt;/p&gt;
-&lt;p&gt;祝愿在座每一个人能够在这个疯狂的时代里，找到内心的平静，能够不疾不徐、笃定地走在自己的路上，能够自由地主宰属于你自己的这短暂的一生。—— ky创始人&lt;/p&gt;
-&lt;p&gt;随着人工智能的发展，只要能够被结构化的知识，都会被机器学习所取代。于是这个时代，价值创造的源泉就是人的创造力。  —— unknown&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="每周语文" scheme="http://louiscards.com/categories/%E6%AF%8F%E5%91%A8%E8%AF%AD%E6%96%87/"/>
-    
-    
-      <category term="心智提升" scheme="http://louiscards.com/tags/%E5%BF%83%E6%99%BA%E6%8F%90%E5%8D%87/"/>
-    
-      <category term="摘抄本" scheme="http://louiscards.com/tags/%E6%91%98%E6%8A%84%E6%9C%AC/"/>
     
   </entry>
   
