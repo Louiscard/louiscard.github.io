@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://louiscards.com/"/>
-  <updated>2019-05-06T02:22:33.000Z</updated>
+  <updated>2019-05-27T14:36:49.878Z</updated>
   <id>http://louiscards.com/</id>
   
   <author>
@@ -14,6 +14,76 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的照片信息管理方案 1.0</title>
+    <link href="http://louiscards.com/2019/05/27/%E6%88%91%E7%9A%84%E7%85%A7%E7%89%87%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E6%96%B9%E6%A1%88-1-0/"/>
+    <id>http://louiscards.com/2019/05/27/我的照片信息管理方案-1-0/</id>
+    <published>2019-05-26T16:00:00.000Z</published>
+    <updated>2019-05-27T14:36:49.878Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="我的照片信息管理方案-1-0"><a href="#我的照片信息管理方案-1-0" class="headerlink" title="我的照片信息管理方案 1.0"></a>我的照片信息管理方案 1.0</h1><p>总结：</p>
+<ul>
+<li>如果能够科学上网，首推 Google 相册；</li>
+<li>如果不方便翻墙，且对照片尺寸有要求，首推群晖 Nas 存储方案；</li>
+</ul>
+<h2 id="方案一：Google-相册"><a href="#方案一：Google-相册" class="headerlink" title="方案一：Google 相册"></a>方案一：Google 相册</h2><p>如果能够科学上网并申请有美区账号，则可以使用 Google Photo 解决照片存储问题，简单介绍几点优势：</p>
+<h4 id="1-支持释放空间资源"><a href="#1-支持释放空间资源" class="headerlink" title="1. 支持释放空间资源"></a>1. 支持释放空间资源</h4><p><img src="http://image.louiscards.com/blog/%E6%9C%AA%E5%91%BD%E5%90%8D.jpg-beta3.0" alt=""></p>
+<p>Google 会自动备份相册，并识别已经备份的内容，将本地内容清空，将照片数据保留云端。</p>
+<h4 id="2-无限备份空间"><a href="#2-无限备份空间" class="headerlink" title="2. 无限备份空间"></a>2. 无限备份空间</h4><p>目前唯一支持免费备份无限标准格式的照片和视频（1600 万像素的照片和 1080p 高清视频）的云服务，可以在 <a href="photos.google.com">photos.google.com</a> 及手机、平板访问所有照片。</p>
+<h4 id="3-超低的照片整理成本"><a href="#3-超低的照片整理成本" class="headerlink" title="3. 超低的照片整理成本"></a>3. 超低的照片整理成本</h4><p>Google 会自动整理照片，并支持用户按其中的地点和事物进行搜索，就算没有标记也完全没问题。例如，搜索「宝宝」可以得到婴儿照片，搜索 「狗」 能找到所有关于你拍摄过的狗狗的照片，选中一个人的头像，可以自动整理有这个人的所有合影和个人照片。</p>
+<p><img src="http://image.louiscards.com/blog/132935.png-beta3.0" alt=""></p>
+<h4 id="4-用共享相册与亲朋好友一起存放照片"><a href="#4-用共享相册与亲朋好友一起存放照片" class="headerlink" title="4. 用共享相册与亲朋好友一起存放照片"></a>4. 用共享相册与亲朋好友一起存放照片</h4><p>可以和家人创建家庭相册，也可以和朋友创建共同出游的临时相册，</p>
+<p>最后，配合 Google Home Hub 可以打造一个电子照片簿，体验更好。总之，在 Google 强大的 AI 技术的支持下，这基本上是当今世界最好的照片解决方案。</p>
+<h2 id="方案二：群晖-Synology-NAS"><a href="#方案二：群晖-Synology-NAS" class="headerlink" title="方案二：群晖 Synology NAS"></a>方案二：群晖 Synology NAS</h2><p>这是性价比最高的数据解决方案，可以彻底解决个人和小型团队的包括文档、照片、视频在内的所有数据存储备份分享问题。</p>
+<p>官方的文章 <a href="https://www.synology.com/zh-cn/solution/photographer" target="_blank" rel="external">存储照片的正确方式：适合摄影爱好者与专业摄影师的备份、分享方案</a> 对如何用 Nas 管理照片介绍比较清楚，我就不再展开介绍了。我自己之前主要用 Google 备份照片，所以没有使用 Synology NAS 进行照片管理，在这两天测试过程中发现群晖 Synology 虽然在智能整理和检索上和 Google 差距还很大，在整体体验上已经非常接近了。</p>
+<p>同时，作为基础的照片管理，它的表现已经非常优秀了。不需要翻墙，支持所有设备，支持释放本地空间。</p>
+<p><img src="http://image.louiscards.com/blog/135143.png-beta3.0" alt=""></p>
+<p>Synology NAS 不会限制你的照片和视频大小，如果你希望保存照片的原始尺寸，选择 Nas 比 Google 相册要更合适。由于本地服务器的特征，可以根据情况不断扩容到十几，几十 TB，价格相对云端存储要便宜很多。</p>
+<p>而且，除了照片之外，其他数据的备份和存储问题可以一并解决，在 Quick Connect 的帮助下，<strong>等于给电脑和手机配合一个可以随时访问的超大的外部硬盘</strong>。</p>
+<h3 id="具体的步骤："><a href="#具体的步骤：" class="headerlink" title="具体的步骤："></a>具体的步骤：</h3><p><strong>1. </strong>购买 Nas 设备</p>
+<p>可以通过 <a href="https://www.synology.com/zh-cn" target="_blank" rel="external">官网</a> 选购，也可以在<a href="https://item.taobao.com/item.htm?id=562768407854&amp;_fb=dnY1MHNwfDExaTcyfDF8NTYyNzY4NDA3ODU0fGhtbHxiZTcxOWY%3D&amp;spm=a310v.4.1100002.1072858009&amp;_g=DefaultFeedQueryService180218&amp;_g=a1100002&amp;_n=1072858009&amp;_t=item&amp;_tk=562768407854&amp;tracelog=frsinazt&amp;from=frsinazt" target="_blank" rel="external">淘宝</a>购买，我买的型号是 群晖 DS918+，配了 2 个希捷酷狼系列 4TB 硬盘，共 5550 元。</p>
+<p><img src="http://image.louiscards.com/blog/135907.png-beta3.0" alt=""></p>
+<p><strong>2. </strong>部署安装</p>
+<p>部署安装的过程非常简单，照着这个 10 多分钟的视频 <a href="https://www.bilibili.com/video/av35045701/?spm_id_from=333.788.videocard.1" target="_blank" rel="external">群晖NAS安装教程</a> 做就可以，官方还提供了很多 <a href="https://www.synology.com/zh-cn/knowledgebase/DSM/video" target="_blank" rel="external">教学视频</a> 可以学习，也可以加入淘宝卖家提供的支持社群。</p>
+<p><strong>3. </strong>下载设备客户端</p>
+<p>除了本地部署之外，还需要安装各平台的 App，推荐在 iPhone 安装：</p>
+<ul>
+<li>Moments</li>
+<li>DS file</li>
+<li>DS video</li>
+<li>DS photo</li>
+<li>Drive</li>
+</ul>
+<p>总之，即便不是为了照片管理，Nas 也是非常值得入手的家庭数据存储的工具，很多好用的功能可以挖掘。</p>
+<h2 id="方案三：iCloud-云端存储"><a href="#方案三：iCloud-云端存储" class="headerlink" title="方案三：iCloud 云端存储"></a>方案三：iCloud 云端存储</h2><p>在 iPhone 选中 <code>优化 iPhone 存储空间</code>，如果空间不足，将自动替换为小尺寸照片，在云端保存原始照片。</p>
+<p><img src="http://image.louiscards.com/blog/IMG_A36AB8806D52-1.jpeg-beta3.0" alt=""></p>
+<p>建议购买 50G 空间以上版本，但对本地空间清理只有在不足时才有明显作用。</p>
+<h2 id="方案四：百度云"><a href="#方案四：百度云" class="headerlink" title="方案四：百度云"></a>方案四：百度云</h2><p>数据不安全，略。</p>
+<h2 id="方案五：坚果云"><a href="#方案五：坚果云" class="headerlink" title="方案五：坚果云"></a>方案五：坚果云</h2><p>照片管理体验一般，价格偏高，略。</p>
+<h2 id="各方案对比图"><a href="#各方案对比图" class="headerlink" title="各方案对比图"></a>各方案对比图</h2><p>略</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;我的照片信息管理方案-1-0&quot;&gt;&lt;a href=&quot;#我的照片信息管理方案-1-0&quot; class=&quot;headerlink&quot; title=&quot;我的照片信息管理方案 1.0&quot;&gt;&lt;/a&gt;我的照片信息管理方案 1.0&lt;/h1&gt;&lt;p&gt;总结：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;如果能够科
+    
+    </summary>
+    
+      <category term="信息管理" scheme="http://louiscards.com/categories/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86/"/>
+    
+    
+      <category term="照片" scheme="http://louiscards.com/tags/%E7%85%A7%E7%89%87/"/>
+    
+      <category term="信息管理" scheme="http://louiscards.com/tags/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86/"/>
+    
+      <category term="Nas" scheme="http://louiscards.com/tags/Nas/"/>
+    
+      <category term="Google" scheme="http://louiscards.com/tags/Google/"/>
+    
+  </entry>
   
   <entry>
     <title>Ulysses 访谈：谈谈写作、Ulysses 和我的利器</title>
@@ -55,36 +125,6 @@
     
       &lt;h3 id=&quot;1-跟我们说说你吧，你现在做什么呢？&quot;&gt;&lt;a href=&quot;#1-跟我们说说你吧，你现在做什么呢？&quot; class=&quot;headerlink&quot; title=&quot;1. 跟我们说说你吧，你现在做什么呢？&quot;&gt;&lt;/a&gt;1. 跟我们说说你吧，你现在做什么呢？&lt;/h3&gt;&lt;p&gt;我的主要工作是在一家科技公司负责用户增长和客户成功，我们通过大数据和人工智能技术研发辅助法官、检察官、律师更高效地工作的工具，解放法律人的生产力。&lt;/p&gt;
 &lt;p&gt;我的斜杠事业是为知识工作者提供高效生产力系统的咨询，周末不加班的时候会通过&lt;a href=&quot;http://www.zaih.com/mentor/84827713&quot;&gt;在行&lt;/a&gt;接单，在咖啡馆或者 WeWork 给大家做分享。除此之外，我还是少数派的签约作者，最近刚刚完成了 &lt;a href=&quot;https://sspai.com/series/26&quot;&gt;Evernote 教程&lt;/a&gt;的更新，最近又开启了 OmniOutliner 教程的编写。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="其他" scheme="http://louiscards.com/categories/%E5%85%B6%E4%BB%96/"/>
-    
-    
-      <category term="其他" scheme="http://louiscards.com/tags/%E5%85%B6%E4%BB%96/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>阻碍我们成为 Writer 的，究竟是什么？</title>
-    <link href="http://louiscards.com/2019/05/01/%E9%98%BB%E7%A2%8D%E6%88%91%E4%BB%AC%E6%88%90%E4%B8%BA-Writer-%E7%9A%84%EF%BC%8C%E7%A9%B6%E7%AB%9F%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/"/>
-    <id>http://louiscards.com/2019/05/01/阻碍我们成为-Writer-的，究竟是什么？/</id>
-    <published>2019-04-30T16:00:00.000Z</published>
-    <updated>2019-05-04T06:23:52.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>我其实挺不愿意把博客变成一种类似于日记一样的形态，对读者价值有限，也因为要公开的属性远不如在 Day One 里写得真诚痛快。订阅号里也有几个随手写写发完也总能大几万的阅读量的「随心所欲派」，但我自己是不会订阅，只会在微博或即刻里关注下随缘刷到浏览就好那种。</p>
-<a id="more"></a>
-<h2 id="文章交付之后的升级问题"><a href="#文章交付之后的升级问题" class="headerlink" title="文章交付之后的升级问题"></a>文章交付之后的升级问题</h2><p>用 Git 的思路解决这个问题。首先你要有一个主线分支（Master），这是一个交付给用户或读者的产品，与此同时，你会开一些分支，补充一些新的模块，这些模块如果完成度非常高，很有可能直接归并到主线分支。如果这些分支完成度不高，未来其他分支很可能就会直接吃掉这个分支的内容，那么原来的分支也不会浪费掉。</p>
-<p>所以，你担心的「研究得不够彻底」，没有写成最系统全面的这个主题的文章就不值得发布的想法并不明智。</p>
-<h2 id="围绕主线创造"><a href="#围绕主线创造" class="headerlink" title="围绕主线创造"></a>围绕主线创造</h2><p>只要是围绕着你的主题，在这个既定的主线里创作，所有的作品都不会浪费，相反，都是一个大型写作工程的推进。</p>
-<p>这么想，其实每周还是应当确定一个主题，然后可以奢侈的把思考的过程都记录下来，读者看到的也不仅仅是最终的结论，相比之下，可能还会更有收获。</p>
-<p>对我自己而言，写作从来不是一种单方面的信息输出和价值传递，它更是我认识这个世界，了解自己的一种重要方式。</p>
-<h2 id="要有-Deadline-，但不要是任性的-DD"><a href="#要有-Deadline-，但不要是任性的-DD" class="headerlink" title="要有 Deadline ，但不要是任性的 DD"></a>要有 Deadline ，但不要是任性的 DD</h2><p>没有 Deadline 则可能在思考研究收集资料上投入无限多的时间，你会不断发现问题，但是如果你没有阶段性地关闭（close）一个问题（话题），那么你将同时并线太多问题，这也必然导致所有的思考和分析不再聚焦，也因此难以深入。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;我其实挺不愿意把博客变成一种类似于日记一样的形态，对读者价值有限，也因为要公开的属性远不如在 Day One 里写得真诚痛快。订阅号里也有几个随手写写发完也总能大几万的阅读量的「随心所欲派」，但我自己是不会订阅，只会在微博或即刻里关注下随缘刷到浏览就好那种。&lt;/p&gt;
     
     </summary>
     
