@@ -4,19 +4,19 @@
 
     
   <url>
-    <loc>http://louiscards.com/2019/04/01/KM-Power-Daily-2019-04-01/</loc>
-    <lastmod>2019-06-24T17:30:15.051Z</lastmod>
+    <loc>http://louiscards.com/2019/07/27/%E4%B8%89%E4%B8%AA%E3%80%8C%E6%97%A5%E5%B8%B8%E5%86%99%E4%BD%9C%E3%80%8D%E7%9A%84%E5%B0%8F%E7%AD%96%E7%95%A5/</loc>
+    <lastmod>2019-07-27T05:15:48.000Z</lastmod>
     <data>
         <display>
-        <title>KM Power Daily 2019-04-01</title>
-        <pubTime>2019-03-31T16:00:00.000Z</pubTime>
+        <title>三个「日常写作」的小策略</title>
+        <pubTime>2019-07-26T16:00:00.000Z</pubTime>
         
-        <tag>每周回顾</tag>
+        <tag>写作</tag>
          
          
            
              
-              <breadCrumb title="每周回顾" url="http://louiscards.com/categories/%E6%AF%8F%E5%91%A8%E5%9B%9E%E9%A1%BE/"/>
+              <breadCrumb title="写作" url="http://louiscards.com/categories/%E5%86%99%E4%BD%9C/"/>
           
         </display>
     </data>
@@ -25,7 +25,7 @@
     
   <url>
     <loc>http://louiscards.com/2019/06/24/%E8%AF%84%E6%B5%8B%E4%BD%95%E5%90%8C%E5%AD%A6%E7%BA%A2%E9%81%8D%E5%85%A8%E7%BD%91%E7%9A%84-5G-%E8%A7%86%E9%A2%91-Vlogger-%E7%9A%84-100-%E5%A4%A9/</loc>
-    <lastmod>2019-06-24T17:29:41.000Z</lastmod>
+    <lastmod>2019-07-07T12:33:20.123Z</lastmod>
     <data>
         <display>
         <title>评测何同学红遍全网的 5G 视频 | Vlogger 的 100 天</title>
@@ -39,6 +39,26 @@
            
              
               <breadCrumb title="Vlog" url="http://louiscards.com/categories/Vlog/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://louiscards.com/2019/04/01/KM-Power-Daily-2019-04-01/</loc>
+    <lastmod>2019-06-24T17:30:15.051Z</lastmod>
+    <data>
+        <display>
+        <title>KM Power Daily 2019-04-01</title>
+        <pubTime>2019-03-31T16:00:00.000Z</pubTime>
+        
+        <tag>每周回顾</tag>
+         
+         
+           
+             
+              <breadCrumb title="每周回顾" url="http://louiscards.com/categories/%E6%AF%8F%E5%91%A8%E5%9B%9E%E9%A1%BE/"/>
           
         </display>
     </data>

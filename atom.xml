@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://louiscards.com/"/>
-  <updated>2019-06-24T17:29:41.000Z</updated>
+  <updated>2019-07-27T05:15:48.000Z</updated>
   <id>http://louiscards.com/</id>
   
   <author>
@@ -16,11 +16,79 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>三个「日常写作」的小策略</title>
+    <link href="http://louiscards.com/2019/07/27/%E4%B8%89%E4%B8%AA%E3%80%8C%E6%97%A5%E5%B8%B8%E5%86%99%E4%BD%9C%E3%80%8D%E7%9A%84%E5%B0%8F%E7%AD%96%E7%95%A5/"/>
+    <id>http://louiscards.com/2019/07/27/三个「日常写作」的小策略/</id>
+    <published>2019-07-26T16:00:00.000Z</published>
+    <updated>2019-07-27T05:15:48.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近被一个问题困扰：</p>
+<blockquote>
+<p>如何安排日常写作。</p>
+</blockquote>
+<p>从 2015 年把写作当成一件正经事到现在，我分别尝试过以下做法：</p>
+<ul>
+<li>随机佛系写作；</li>
+<li>低质量日更；</li>
+<li>高成本专题文章。</li>
+</ul>
+<p>不过，随着我进入互联网公司，有了小葵同学，一脚迈进 10 多万字教程的深坑，如今又有了一种新的做法：</p>
+<ul>
+<li>完全不写。</li>
+</ul>
+<p>之所以这么做，逻辑也非常简单。我在 2018 年在少数派更新完的教程《高效信息管理术》有 30 篇文章，每篇平均在 5000 字左右，而且都是信息筛选、知识分类、标签架构这样偏硬核主题。我把所有工作、生活之外的时间全部用在修改这 30 篇文章上，目前看进度尚且堪忧，其实并没有什么额外时间投入在价值不明朗的日常写作上。<br><a id="more"></a><br>事实上，我至今也认为这个逻辑本身是没问题的。但实践下来觉得并不太令人满意，一个原因是只修改原有作品失去了写作最初的愉悦感受，更重要的是有时候突然想要琢磨一个问题，或者有了一些「啊哈时刻」也只能发个 140 字的微博，似乎被人<strong>生生砍断了一种思考和输出的方式</strong>。</p>
+<p>因此，我决定重新设计「日常写作」在我的整个信息管理系统中的定位和流程，下面我来介绍下我的方案和计划：</p>
+<h3 id="1-降低预期，控制成本"><a href="#1-降低预期，控制成本" class="headerlink" title="1. 降低预期，控制成本"></a>1. 降低预期，控制成本</h3><p>每个写作者对自己的发表的内容都会有标准和要求，比如是否有精妙的论证、有趣的故事、简洁的表述等等。如果通篇没有一个引用、一条金句、惊世骇俗的洞察，那就还得再花时间。然而这种写作方法成本实在是太高，如果没有个几万阅读、换不来声明和钞票，很难坚持。</p>
+<p>因此，在确定属于「日常写作」的情况下，如果有个不错的选题，拿上 iPad，找个咖啡馆，用 30 分钟到1 个钟头完成初稿，第二天有时间再快速过一遍，改改错别字，直接就发订阅号了。</p>
+<p>简单来说，就一个原则：<strong>从念起到发表，时间成本控制在 2 小时以内。</strong></p>
+<h3 id="2-多更新，多发版"><a href="#2-多更新，多发版" class="headerlink" title="2. 多更新，多发版"></a>2. 多更新，多发版</h3><p>我之前有个思路是，有想法可以写作，但是可以先藏在自己的 Ulysses 里不发表出来。这样我可以在以后不断修改完善，等到符合预期的时候再发布也不迟。</p>
+<p><strong>但是，我大大低估了「发表」的价值。</strong></p>
+<p>发表这件事不仅仅为了获得一种正向的反馈，更重要的是它会让你有一种「放下」的感受。和 GTD 的底层逻辑一样，如果有 100 多个在齐头并进的文章在推进，有些才起了个题目，有些是 90% 的完成度，这听起来非常美好，可实际上这种千头万绪会让你陷入一种强烈的未完成感，几个月都未必能够交付一篇 3000 字的文章。</p>
+<p>为了不被这种负面感受拖垮，我决定采取一种「多更新，多发版」的思路，所有文章只要完成一定发布，但是就像我可以持续更新我的教程一样，这些文章后续也会修改，修改之后我也会重新发布，不给自己增加额外的管理成本。</p>
+<h3 id="3-尝试周更"><a href="#3-尝试周更" class="headerlink" title="3. 尝试周更"></a>3. 尝试周更</h3><p>关于更新频次，我先后排除了日更和随机更新这两种方案。</p>
+<p>日更的方式其实变相增加了写作成本，我依然认为，相对于日常写作，专题写作或者工作任务和家庭时间的优先级要高出一个 Level。一旦选择日更，虽然单篇文章可能成本不高，但是为了实现连续性，每周可能就需要 10 小时以上的时间投入，写作本身的性价比会被拉得极低。</p>
+<p>随意更新，完全没有更新频次的要求也不是一个好的选择，因为这样会非常容易导致行动瘫痪，使没有完结的文章越攒越多。</p>
+<p>「一周」是一个相对合适的节奏，一周的时间相对充裕，还有周末作为缓冲，压力不大，即便没有教程修改这样的写作任务，也能保持稳定的写作习惯，让周末和零碎时间利用得更加高效。</p>
+<h2 id="最后的话"><a href="#最后的话" class="headerlink" title="最后的话"></a>最后的话</h2><p>这就是我重新设计的「日常写作」方案，这篇是在从北京飞往深圳的飞机上完成的，也是我第一次对这个方案的尝试，希望能给你一些启发。如果对这个方案有想法，也欢迎通过各种方式和我交流。</p>
+<hr>
+<p><strong>关于作者：</strong>  </p>
+<p>Louiscard 是一名互联网公司的产品运营，同时他还是一位生产力教练、 Power user、印象笔记认证咨询师、少数派专业作者。他擅长用工具打造高效生产力系统，并通过在行平台为知识工作者提供咨询服务。</p>
+<p>在行页面：[<a href="http://www.zaih.com/mentor/84827713/][2" target="_blank" rel="external">http://www.zaih.com/mentor/84827713/][2</a>]<br>少数派专栏：[<a href="https://sspai.com/series/73][3" target="_blank" rel="external">https://sspai.com/series/73][3</a>]</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近被一个问题困扰：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如何安排日常写作。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;从 2015 年把写作当成一件正经事到现在，我分别尝试过以下做法：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;随机佛系写作；&lt;/li&gt;
+&lt;li&gt;低质量日更；&lt;/li&gt;
+&lt;li&gt;高成本专题文章。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;不过，随着我进入互联网公司，有了小葵同学，一脚迈进 10 多万字教程的深坑，如今又有了一种新的做法：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;完全不写。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;之所以这么做，逻辑也非常简单。我在 2018 年在少数派更新完的教程《高效信息管理术》有 30 篇文章，每篇平均在 5000 字左右，而且都是信息筛选、知识分类、标签架构这样偏硬核主题。我把所有工作、生活之外的时间全部用在修改这 30 篇文章上，目前看进度尚且堪忧，其实并没有什么额外时间投入在价值不明朗的日常写作上。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="写作" scheme="http://louiscards.com/categories/%E5%86%99%E4%BD%9C/"/>
+    
+    
+      <category term="写作" scheme="http://louiscards.com/tags/%E5%86%99%E4%BD%9C/"/>
+    
+  </entry>
+  
+  <entry>
     <title>评测何同学红遍全网的 5G 视频 | Vlogger 的 100 天</title>
     <link href="http://louiscards.com/2019/06/24/%E8%AF%84%E6%B5%8B%E4%BD%95%E5%90%8C%E5%AD%A6%E7%BA%A2%E9%81%8D%E5%85%A8%E7%BD%91%E7%9A%84-5G-%E8%A7%86%E9%A2%91-Vlogger-%E7%9A%84-100-%E5%A4%A9/"/>
     <id>http://louiscards.com/2019/06/24/评测何同学红遍全网的-5G-视频-Vlogger-的-100-天/</id>
     <published>2019-06-23T16:00:00.000Z</published>
-    <updated>2019-06-24T17:29:41.000Z</updated>
+    <updated>2019-07-07T12:33:20.123Z</updated>
     
     <content type="html"><![CDATA[<p>在 6 月 6 日，B 站 UP 主 @老师好我叫何同学 发布了一支 5G 的体验视频，这支视频混在刚刚结束的关于 WWDC 的众多影片中并不显眼，但以极快的速度窜升至 B 站视频榜首、在微博刷屏、被中国联通和共青团等大号转载。我好奇的点开，一刷、二刷 … 简直停不下来。</p>
 <p><img src="http://image.louiscards.com/blog/142413.png-beta3.0" alt="" title="占满屏幕的弹幕"></p>
@@ -77,7 +145,7 @@
 <p><strong>关于作者：</strong>  </p>
 <p>Louiscard 是一名互联网公司的产品运营，同时他还是一位生产力教练、 Power user、印象笔记认证咨询师、少数派专业作者。他擅长用工具打造高效生产力系统，并通过在行平台为知识工作者提供咨询服务，欢迎长按二维码约他喝咖啡。</p>
 <p><img src="http://image.louiscards.com/blog/2a50c90a66dda129.png-beta3.0" alt=""></p>
-<p>在行页面：<a href="http://www.zaih.com/mentor/84827713/" target="_blank" rel="external">http://www.zaih.com/mentor/84827713/</a><br>少数派专栏：<a href="https://sspai.com/series/26" target="_blank" rel="external">https://sspai.com/series/26</a></p>
+<p>在行页面：<a href="http://www.zaih.com/mentor/84827713/" target="_blank" rel="external">http://www.zaih.com/mentor/84827713/</a><br>少数派专栏：<a href="https://sspai.com/series/73" target="_blank" rel="external">https://sspai.com/series/73</a></p>
 <blockquote>
 <p>谢谢阅读。 如果你喜欢这篇文章，请转发给你的朋友或者点击「好看」，以帮助其他人找到它。</p>
 </blockquote>
@@ -1180,6 +1248,44 @@
   </entry>
   
   <entry>
+    <title>Evernote管理附件的三点必知必会</title>
+    <link href="http://louiscards.com/2017/08/06/How-to-organize-files-in-evernote/"/>
+    <id>http://louiscards.com/2017/08/06/How-to-organize-files-in-evernote/</id>
+    <published>2017-08-05T16:00:00.000Z</published>
+    <updated>2018-11-13T12:10:59.066Z</updated>
+    
+    <content type="html"><![CDATA[<p>无论是录音、Word文档、Excel表格、PDF、JPG图片都可以作为附件来管理，那么如何高效的管理印象笔记中的附件呢？</p>
+<p>这里必须要介绍下印象笔记最强大的特点：附件位置的「字符级」调整，这意味着你可以把附件放到任意你希望的位置，体验非常惊艳。</p>
+<p>主要需要关注以下几点</p>
+<h2 id="1-重命名附件"><a href="#1-重命名附件" class="headerlink" title="1 重命名附件"></a>1 重命名附件</h2><p>比如录音会按照时间自动命名，不便于后期的管理，一般情况，对录音资料需要立即重命名，预防以后分不清内容，还要再逐一播放验证。<br><img src="http://image.louiscards.com/blog/F7CCF7DC-AE98-4B81-B657-2558E7886AA0.png-bate2" alt=""><br><a id="more"></a></p>
+<h2 id="2-使用表格管理"><a href="#2-使用表格管理" class="headerlink" title="2 使用表格管理"></a>2 使用表格管理</h2><p>用表格或者无序符号，会让你附件更有秩序</p>
+<p>2.1 表格的方式<br><img src="http://image.louiscards.com/blog/E10B0436-F1F1-4C45-9C28-25F45946C269.png-bate2" alt=""></p>
+<p>2.2 项目符号的方式<br><img src="http://image.louiscards.com/blog/6EB54B76-057D-4718-8DC6-BE92F0868E55.png-bate2" alt=""></p>
+<h2 id="3-附件的两种显示形式"><a href="#3-附件的两种显示形式" class="headerlink" title="3 附件的两种显示形式"></a>3 附件的两种显示形式</h2><p>第一种是作为附件的方式：如上图所示</p>
+<p>第二种是直接在笔记中查看，就像是笔记正文内容一样，不需要再双击打开就可以浏览内容。<br><img src="http://image.louiscards.com/blog/4FBD5C21-62F5-4F49-805D-8F2F88872AE3.png-bate2" alt=""></p>
+<p>具体方法就是在附件上右键并点击【在笔记中查看】或者【作为附件查看】</p>
+<p><img src="http://image.louiscards.com/blog/F1E8170C-17D6-4123-8DC0-CBF9643022ED.png-bate2" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;无论是录音、Word文档、Excel表格、PDF、JPG图片都可以作为附件来管理，那么如何高效的管理印象笔记中的附件呢？&lt;/p&gt;
+&lt;p&gt;这里必须要介绍下印象笔记最强大的特点：附件位置的「字符级」调整，这意味着你可以把附件放到任意你希望的位置，体验非常惊艳。&lt;/p&gt;
+&lt;p&gt;主要需要关注以下几点&lt;/p&gt;
+&lt;h2 id=&quot;1-重命名附件&quot;&gt;&lt;a href=&quot;#1-重命名附件&quot; class=&quot;headerlink&quot; title=&quot;1 重命名附件&quot;&gt;&lt;/a&gt;1 重命名附件&lt;/h2&gt;&lt;p&gt;比如录音会按照时间自动命名，不便于后期的管理，一般情况，对录音资料需要立即重命名，预防以后分不清内容，还要再逐一播放验证。&lt;br&gt;&lt;img src=&quot;http://image.louiscards.com/blog/F7CCF7DC-AE98-4B81-B657-2558E7886AA0.png-bate2&quot; alt=&quot;&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Evernote" scheme="http://louiscards.com/categories/Evernote/"/>
+    
+    
+      <category term="Evernote" scheme="http://louiscards.com/tags/Evernote/"/>
+    
+      <category term="知识管理" scheme="http://louiscards.com/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
     <title>编一个故事就能记住18个无序排列的字母数字组合？</title>
     <link href="http://louiscards.com/2017/08/06/How-to-remember-18-numbers-letters/"/>
     <id>http://louiscards.com/2017/08/06/How-to-remember-18-numbers-letters/</id>
@@ -1225,83 +1331,6 @@
       <category term="学习" scheme="http://louiscards.com/tags/%E5%AD%A6%E4%B9%A0/"/>
     
       <category term="记忆宫殿" scheme="http://louiscards.com/tags/%E8%AE%B0%E5%BF%86%E5%AE%AB%E6%AE%BF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Evernote管理附件的三点必知必会</title>
-    <link href="http://louiscards.com/2017/08/06/How-to-organize-files-in-evernote/"/>
-    <id>http://louiscards.com/2017/08/06/How-to-organize-files-in-evernote/</id>
-    <published>2017-08-05T16:00:00.000Z</published>
-    <updated>2018-11-13T12:10:59.066Z</updated>
-    
-    <content type="html"><![CDATA[<p>无论是录音、Word文档、Excel表格、PDF、JPG图片都可以作为附件来管理，那么如何高效的管理印象笔记中的附件呢？</p>
-<p>这里必须要介绍下印象笔记最强大的特点：附件位置的「字符级」调整，这意味着你可以把附件放到任意你希望的位置，体验非常惊艳。</p>
-<p>主要需要关注以下几点</p>
-<h2 id="1-重命名附件"><a href="#1-重命名附件" class="headerlink" title="1 重命名附件"></a>1 重命名附件</h2><p>比如录音会按照时间自动命名，不便于后期的管理，一般情况，对录音资料需要立即重命名，预防以后分不清内容，还要再逐一播放验证。<br><img src="http://image.louiscards.com/blog/F7CCF7DC-AE98-4B81-B657-2558E7886AA0.png-bate2" alt=""><br><a id="more"></a></p>
-<h2 id="2-使用表格管理"><a href="#2-使用表格管理" class="headerlink" title="2 使用表格管理"></a>2 使用表格管理</h2><p>用表格或者无序符号，会让你附件更有秩序</p>
-<p>2.1 表格的方式<br><img src="http://image.louiscards.com/blog/E10B0436-F1F1-4C45-9C28-25F45946C269.png-bate2" alt=""></p>
-<p>2.2 项目符号的方式<br><img src="http://image.louiscards.com/blog/6EB54B76-057D-4718-8DC6-BE92F0868E55.png-bate2" alt=""></p>
-<h2 id="3-附件的两种显示形式"><a href="#3-附件的两种显示形式" class="headerlink" title="3 附件的两种显示形式"></a>3 附件的两种显示形式</h2><p>第一种是作为附件的方式：如上图所示</p>
-<p>第二种是直接在笔记中查看，就像是笔记正文内容一样，不需要再双击打开就可以浏览内容。<br><img src="http://image.louiscards.com/blog/4FBD5C21-62F5-4F49-805D-8F2F88872AE3.png-bate2" alt=""></p>
-<p>具体方法就是在附件上右键并点击【在笔记中查看】或者【作为附件查看】</p>
-<p><img src="http://image.louiscards.com/blog/F1E8170C-17D6-4123-8DC0-CBF9643022ED.png-bate2" alt=""></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;无论是录音、Word文档、Excel表格、PDF、JPG图片都可以作为附件来管理，那么如何高效的管理印象笔记中的附件呢？&lt;/p&gt;
-&lt;p&gt;这里必须要介绍下印象笔记最强大的特点：附件位置的「字符级」调整，这意味着你可以把附件放到任意你希望的位置，体验非常惊艳。&lt;/p&gt;
-&lt;p&gt;主要需要关注以下几点&lt;/p&gt;
-&lt;h2 id=&quot;1-重命名附件&quot;&gt;&lt;a href=&quot;#1-重命名附件&quot; class=&quot;headerlink&quot; title=&quot;1 重命名附件&quot;&gt;&lt;/a&gt;1 重命名附件&lt;/h2&gt;&lt;p&gt;比如录音会按照时间自动命名，不便于后期的管理，一般情况，对录音资料需要立即重命名，预防以后分不清内容，还要再逐一播放验证。&lt;br&gt;&lt;img src=&quot;http://image.louiscards.com/blog/F7CCF7DC-AE98-4B81-B657-2558E7886AA0.png-bate2&quot; alt=&quot;&quot;&gt;&lt;br&gt;
-    
-    </summary>
-    
-      <category term="Evernote" scheme="http://louiscards.com/categories/Evernote/"/>
-    
-    
-      <category term="Evernote" scheme="http://louiscards.com/tags/Evernote/"/>
-    
-      <category term="知识管理" scheme="http://louiscards.com/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>理性点，别走闭关锁国的封建老路</title>
-    <link href="http://louiscards.com/2017/07/31/not-fool-yourself/"/>
-    <id>http://louiscards.com/2017/07/31/not-fool-yourself/</id>
-    <published>2017-07-30T16:00:00.000Z</published>
-    <updated>2018-11-13T12:11:16.621Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="http://image.louiscards.com/blog/171834.jpg-bate2" alt=""><br>因为不舍得丢掉财宝，地主沉到湖底。我们嘲笑地主的愚蠢，正如我们对赤裸的国王和掩耳盗铃的愚人一样。可是，回过头看，你也许已经变成和他们一样的人。</p>
-<p>在很长时间，我都觉得自己是最不可能成为被沉默成本所牵绊的笨蛋。因为，我好奇心强啊，因为我更容易接收新鲜事物啊，因为我还是泛90后的年轻人啊。后来我发现，闭关锁国这件事，真是不分年龄，老少咸宜。<br><a id="more"></a><br>发现自己有这个恶习就在这两天。</p>
-<p>在RSS上阅读玩物站长的文章，有篇提到制定计划的135模型，简单说就是一天确定一件最重要的核心任务，三件重要任务的和五件零碎小事。这个模型，我打眼一看就莫名其妙地非常抵触，这大概已经是我第四、五次看到，但还是立刻标记已读，完全不想深入思考，觉得，嗯，还不错，但，估计也不怎么样把。</p>
-<p>一直到我第二天制定每日todolist，看到自己的当日工作清单，还是忍不住想起135模型，但这个模型和我原有的水桶模型在很多地方存在着尖锐矛盾（毕竟打破了三只青蛙的传统体系）。我耐心心不断说服自己，当我在白板前反复思考，最终不得不承认：1-3-5模型比我目前的模型要更加优秀，原因很简单：因为它更聚焦，也更克制！</p>
-<p>但为什么，我对它就如此抵触？</p>
-<p>这两天一直思考这件事，在吃完一顿串串香之后，总算有个答案。</p>
-<p>最重要的一个原因可能是：自己在时间管理话题的持续积累、思考、实践、分享，这些大量投入得到的框架模型，让自己发自内心地忍不住捍卫其「最优」地位，即便我知道，也正因为我知道在很多事情上没有绝对的最优，因此，自欺欺人地以关闭了对可能构成挑战的所有信息的认知通路。而这直接导致了，我甚至抗拒思考和比较，<strong>像一个大清王朝的愚昧皇帝，拒绝新世界的到来，捍卫根本就不存在的假想优势。</strong></p>
-<p>所以，说到底，还是认知能力不够，在信息的输入、处理、输出环节都存在硬伤。一旦完成了某个系统的构建和初步打磨，这些为此付出的成本都成了进一步调整改变的负担。</p>
-<p>拒绝改变有很多原因，怕麻烦、懒得改，这都没关系，那就为此接受相应的代价：继续使用旧版本或忍受低效率。但请千万不要，自欺欺人地把明明是因为舍不得沉没成本，选择不听不看不思考的懒惰，冠以「老子的系统最NB，其他的都是辣鸡」的理由。</p>
-<blockquote>
-<p>沉没成本，当然是成本，当然要考虑，但请连同它的负面影响，一同认真严肃地考虑。</p>
-</blockquote>
-<p>没有绝对的标准，只有动态的变化，筛选信息，而不是关闭信息。你可以选择拒绝，但你必须说出拒绝的理由，而最好不是每次都是：凭感觉咯。</p>
-<p>我是Louiscard，我们下次见。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://image.louiscards.com/blog/171834.jpg-bate2&quot; alt=&quot;&quot;&gt;&lt;br&gt;因为不舍得丢掉财宝，地主沉到湖底。我们嘲笑地主的愚蠢，正如我们对赤裸的国王和掩耳盗铃的愚人一样。可是，回过头看，你也许已经变成和他们一样的人。&lt;/p&gt;
-&lt;p&gt;在很长时间，我都觉得自己是最不可能成为被沉默成本所牵绊的笨蛋。因为，我好奇心强啊，因为我更容易接收新鲜事物啊，因为我还是泛90后的年轻人啊。后来我发现，闭关锁国这件事，真是不分年龄，老少咸宜。&lt;br&gt;
-    
-    </summary>
-    
-      <category term="心智思维" scheme="http://louiscards.com/categories/%E5%BF%83%E6%99%BA%E6%80%9D%E7%BB%B4/"/>
-    
-    
-      <category term="认知" scheme="http://louiscards.com/tags/%E8%AE%A4%E7%9F%A5/"/>
-    
-      <category term="时间管理" scheme="http://louiscards.com/tags/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/"/>
     
   </entry>
   
