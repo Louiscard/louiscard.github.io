@@ -294,7 +294,7 @@
     <link href="http://louiscards.com/2019/05/27/%E6%88%91%E7%9A%84%E7%85%A7%E7%89%87%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E6%96%B9%E6%A1%88-1-0/"/>
     <id>http://louiscards.com/2019/05/27/我的照片信息管理方案-1-0/</id>
     <published>2019-05-26T16:00:00.000Z</published>
-    <updated>2019-05-27T14:54:21.131Z</updated>
+    <updated>2020-04-06T11:26:38.033Z</updated>
     
     <content type="html"><![CDATA[<h1 id="我的照片信息管理方案-1-0"><a href="#我的照片信息管理方案-1-0" class="headerlink" title="我的照片信息管理方案 1.0"></a>我的照片信息管理方案 1.0</h1><p>总结：</p>
 <ul>
@@ -304,7 +304,7 @@
 <h2 id="方案一：Google-相册"><a href="#方案一：Google-相册" class="headerlink" title="方案一：Google 相册"></a>方案一：Google 相册</h2><p>如果能够科学上网并申请有美区账号，则可以使用 Google Photo 解决照片存储问题，简单介绍几点优势：</p>
 <h4 id="1-支持释放空间资源"><a href="#1-支持释放空间资源" class="headerlink" title="1. 支持释放空间资源"></a>1. 支持释放空间资源</h4><p><img src="http://image.louiscards.com/blog/%E6%9C%AA%E5%91%BD%E5%90%8D.jpg-beta3.0" alt=""></p>
 <p>Google 会自动备份相册，并识别已经备份的内容，将本地内容清空，将照片数据保留云端。</p>
-<h4 id="2-无限备份空间"><a href="#2-无限备份空间" class="headerlink" title="2. 无限备份空间"></a>2. 无限备份空间</h4><p>目前唯一支持免费备份无限标准格式的照片和视频（1600 万像素的照片和 1080p 高清视频）的云服务，可以在 <a href="photos.google.com">photos.google.com</a> 及手机、平板访问所有照片。</p>
+<h4 id="2-无限备份空间"><a href="#2-无限备份空间" class="headerlink" title="2. 无限备份空间"></a>2. 无限备份空间</h4><p>目前唯一支持免费备份无限标准格式的照片和视频（1600 万像素的照片和 1080p 高清视频）的云服务，可以在 <a href="photos.google.com">photos.google.com</a> 及手机、平板访问所有照片。<br><a id="more"></a></p>
 <h4 id="3-超低的照片整理成本"><a href="#3-超低的照片整理成本" class="headerlink" title="3. 超低的照片整理成本"></a>3. 超低的照片整理成本</h4><p>Google 会自动整理照片，并支持用户按其中的地点和事物进行搜索，就算没有标记也完全没问题。例如，搜索「宝宝」可以得到婴儿照片，搜索 「狗」 能找到所有关于你拍摄过的狗狗的照片，选中一个人的头像，可以自动整理有这个人的所有合影和个人照片。</p>
 <p><img src="http://image.louiscards.com/blog/132935.png-beta3.0" alt=""></p>
 <h4 id="4-用共享相册与亲朋好友一起存放照片"><a href="#4-用共享相册与亲朋好友一起存放照片" class="headerlink" title="4. 用共享相册与亲朋好友一起存放照片"></a>4. 用共享相册与亲朋好友一起存放照片</h4><p>可以和家人创建家庭相册，也可以和朋友创建共同出游的临时相册，</p>
@@ -343,7 +343,13 @@
     
       &lt;h1 id=&quot;我的照片信息管理方案-1-0&quot;&gt;&lt;a href=&quot;#我的照片信息管理方案-1-0&quot; class=&quot;headerlink&quot; title=&quot;我的照片信息管理方案 1.0&quot;&gt;&lt;/a&gt;我的照片信息管理方案 1.0&lt;/h1&gt;&lt;p&gt;总结：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;如果能够科
+&lt;li&gt;如果能够科学上网，首推 Google 相册；&lt;/li&gt;
+&lt;li&gt;如果不方便翻墙，且对照片尺寸有要求，首推群晖 Nas 存储方案；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;方案一：Google-相册&quot;&gt;&lt;a href=&quot;#方案一：Google-相册&quot; class=&quot;headerlink&quot; title=&quot;方案一：Google 相册&quot;&gt;&lt;/a&gt;方案一：Google 相册&lt;/h2&gt;&lt;p&gt;如果能够科学上网并申请有美区账号，则可以使用 Google Photo 解决照片存储问题，简单介绍几点优势：&lt;/p&gt;
+&lt;h4 id=&quot;1-支持释放空间资源&quot;&gt;&lt;a href=&quot;#1-支持释放空间资源&quot; class=&quot;headerlink&quot; title=&quot;1. 支持释放空间资源&quot;&gt;&lt;/a&gt;1. 支持释放空间资源&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;http://image.louiscards.com/blog/%E6%9C%AA%E5%91%BD%E5%90%8D.jpg-beta3.0&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Google 会自动备份相册，并识别已经备份的内容，将本地内容清空，将照片数据保留云端。&lt;/p&gt;
+&lt;h4 id=&quot;2-无限备份空间&quot;&gt;&lt;a href=&quot;#2-无限备份空间&quot; class=&quot;headerlink&quot; title=&quot;2. 无限备份空间&quot;&gt;&lt;/a&gt;2. 无限备份空间&lt;/h4&gt;&lt;p&gt;目前唯一支持免费备份无限标准格式的照片和视频（1600 万像素的照片和 1080p 高清视频）的云服务，可以在 &lt;a href=&quot;photos.google.com&quot;&gt;photos.google.com&lt;/a&gt; 及手机、平板访问所有照片。&lt;br&gt;
     
     </summary>
     
@@ -415,7 +421,7 @@
     <link href="http://louiscards.com/2019/04/01/KM-Power-Daily-2019-04-01/"/>
     <id>http://louiscards.com/2019/04/01/KM-Power-Daily-2019-04-01/</id>
     <published>2019-03-31T16:00:00.000Z</published>
-    <updated>2019-06-24T17:30:15.051Z</updated>
+    <updated>2020-04-06T11:26:26.181Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://image.louiscards.com/blog/131451.jpg-beta3.0" alt=""></p>
 <blockquote>
@@ -423,7 +429,7 @@
 </blockquote>
 <h3 id="1"><a href="#1" class="headerlink" title="1"></a>1</h3><h3 id="如何对你的目标更负责？"><a href="#如何对你的目标更负责？" class="headerlink" title="如何对你的目标更负责？"></a>如何对你的目标更负责？</h3><p>STOP FAILING AT YOUR GOALS // One Simple Tip<br>链接：<a href="http://t.cn/EiZF3OU" target="_blank" rel="external">http://t.cn/EiZF3OU</a></p>
 <p>每周重申你的目标。</p>
-<p>James Clear the author of “atomic habits” calls this part pointing and calling just by reiterating a statement about your goals and your intention towards them will make you more aware of and more likely to act on them as James says many of our failures in performance are largely attributable to a lack of self-awareness please try it it’s been incredibly effective for me and I think it will be for you too.</p>
+<p>James Clear the author of “atomic habits” calls this part pointing and calling just by reiterating a statement about your goals and your intention towards them will make you more aware of and more likely to act on them as James says many of our failures in performance are largely attributable to a lack of self-awareness please try it it’s been incredibly effective for me and I think it will be for you too.<br><a id="more"></a></p>
 <h3 id="Apple，致敬创造者"><a href="#Apple，致敬创造者" class="headerlink" title="Apple，致敬创造者"></a>Apple，致敬创造者</h3><p>题目：对我而言，这是五年来最美好的 Apple 发布会<br>链接：<a href="http://t.cn/EJ0mFtv" target="_blank" rel="external">http://t.cn/EJ0mFtv</a></p>
 <h3 id="运营"><a href="#运营" class="headerlink" title="运营"></a>运营</h3><p>链接：<a href="http://t.cn/EiwG9mq" target="_blank" rel="external">http://t.cn/EiwG9mq</a></p>
 <p>创业公司的痛！</p>
@@ -451,7 +457,11 @@
     
       &lt;p&gt;&lt;img src=&quot;http://image.louiscards.com/blog/131451.jpg-beta3.0&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;此专栏为 Louiscard 的每周回顾，每周一更新。&lt;br&gt;如需查阅推荐资源，可点击&lt;co
+&lt;p&gt;此专栏为 Louiscard 的每周回顾，每周一更新。&lt;br&gt;如需查阅推荐资源，可点击&lt;code&gt;阅读原文&lt;/code&gt;前往博客阅读。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;1&lt;/h3&gt;&lt;h3 id=&quot;如何对你的目标更负责？&quot;&gt;&lt;a href=&quot;#如何对你的目标更负责？&quot; class=&quot;headerlink&quot; title=&quot;如何对你的目标更负责？&quot;&gt;&lt;/a&gt;如何对你的目标更负责？&lt;/h3&gt;&lt;p&gt;STOP FAILING AT YOUR GOALS // One Simple Tip&lt;br&gt;链接：&lt;a href=&quot;http://t.cn/EiZF3OU&quot;&gt;http://t.cn/EiZF3OU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;每周重申你的目标。&lt;/p&gt;
+&lt;p&gt;James Clear the author of “atomic habits” calls this part pointing and calling just by reiterating a statement about your goals and your intention towards them will make you more aware of and more likely to act on them as James says many of our failures in performance are largely attributable to a lack of self-awareness please try it it’s been incredibly effective for me and I think it will be for you too.&lt;br&gt;
     
     </summary>
     
@@ -550,7 +560,7 @@
     <link href="http://louiscards.com/2019/03/18/KM-Power-Daily-2019-03-18/"/>
     <id>http://louiscards.com/2019/03/18/KM-Power-Daily-2019-03-18/</id>
     <published>2019-03-17T16:00:00.000Z</published>
-    <updated>2019-03-18T12:57:09.603Z</updated>
+    <updated>2020-04-06T11:26:11.970Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://image.louiscards.com/blog/%E9%85%8D%E5%9B%BE%EF%BC%9A%E6%AF%8F%E5%91%A8%E5%9B%9E%E9%A1%BE.png-beta3.0" alt=""></p>
 <blockquote>
@@ -558,6 +568,7 @@
 </blockquote>
 <h2 id="读了什么"><a href="#读了什么" class="headerlink" title="读了什么"></a>读了什么</h2><h3 id="如何从头开始学习任何语言"><a href="#如何从头开始学习任何语言" class="headerlink" title="如何从头开始学习任何语言"></a>如何从头开始学习任何语言</h3><p>How to Learn Any Language from Scratch<br>链接：<a href="http://t.cn/ExbsJV2" target="_blank" rel="external">http://t.cn/ExbsJV2</a></p>
 <p>文章介绍了作者在过去十年学习西班牙语、法语、日语、德语和中文的经历，提到很多条经验，比如提前确认学习目标、日常学习和短期冲刺结合、用良好的口音提升自信、使用间隔重复系统（SRS）、如何用阅读制作闪卡等等，想要学习语言的朋友可以进一步了解。  </p>
+<a id="more"></a>
 <h3 id="不要每天阅读新闻"><a href="#不要每天阅读新闻" class="headerlink" title="不要每天阅读新闻"></a>不要每天阅读新闻</h3><p>总听到一个说法「<strong>每天看新闻的人，会越来越傻</strong>」，前几天从《反脆弱》这本书里找到了这个观点的详细解释：</p>
 <blockquote>
 <p>你越频繁地寻找数据，找到噪音的比例就越高，因为大部分波动仅仅是随机现象。如果每年观察一次数据，噪音和信息比是一比一，那么每日观察一次将会得到 99.5% 的噪音与 0.5% 的信息，噪声的比例将是信号的 200 倍以上，这就是为什么每天听新闻（除了有非常重要的事情发生）的人离愚蠢也就只有一步之遥了。 </p>
@@ -647,7 +658,11 @@
     <summary type="html">
     
       &lt;p&gt;&lt;img src=&quot;http://image.louiscards.com/blog/%E9%85%8D%E5%9B%BE%EF%BC%9A%E6%AF%8F%E5%91%A8%E5%9B%9E%E9%A1%BE.png-beta3.0&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;bloc
+&lt;blockquote&gt;
+&lt;p&gt;此专栏为 Louiscard 的每周回顾，每周一更新。&lt;br&gt;如需查阅推荐资源，可点击&lt;code&gt;阅读原文&lt;/code&gt;前往博客阅读。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;读了什么&quot;&gt;&lt;a href=&quot;#读了什么&quot; class=&quot;headerlink&quot; title=&quot;读了什么&quot;&gt;&lt;/a&gt;读了什么&lt;/h2&gt;&lt;h3 id=&quot;如何从头开始学习任何语言&quot;&gt;&lt;a href=&quot;#如何从头开始学习任何语言&quot; class=&quot;headerlink&quot; title=&quot;如何从头开始学习任何语言&quot;&gt;&lt;/a&gt;如何从头开始学习任何语言&lt;/h3&gt;&lt;p&gt;How to Learn Any Language from Scratch&lt;br&gt;链接：&lt;a href=&quot;http://t.cn/ExbsJV2&quot;&gt;http://t.cn/ExbsJV2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;文章介绍了作者在过去十年学习西班牙语、法语、日语、德语和中文的经历，提到很多条经验，比如提前确认学习目标、日常学习和短期冲刺结合、用良好的口音提升自信、使用间隔重复系统（SRS）、如何用阅读制作闪卡等等，想要学习语言的朋友可以进一步了解。  &lt;/p&gt;
     
     </summary>
     
