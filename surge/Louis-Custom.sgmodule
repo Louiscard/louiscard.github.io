@@ -1,8 +1,12 @@
 #!name=Louis 自定义规则
-#!desc=GitHub 直连 + 国内全量直连(ChinaMax 12万+规则, 每日自动更新), 配合托管配置使用。
+#!desc=Gmail 走代理 + GitHub 直连 + 国内全量直连(ChinaMax 12万+规则, 每日自动更新), 配合托管配置使用。
 #!category=自定义
 
 [Rule]
+# ===== Gmail 收发强制走代理(直连会被 GFW 掐断 TLS, 邮件发不出, 必须排在 ChinaMax 之前)=====
+DOMAIN-SUFFIX,gmail.com,Proxies
+DOMAIN-SUFFIX,googlemail.com,Proxies
+
 # ===== GitHub 强制直连 =====
 DOMAIN-SUFFIX,github.com,DIRECT
 DOMAIN-SUFFIX,githubusercontent.com,DIRECT
