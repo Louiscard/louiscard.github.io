@@ -14,4 +14,4 @@ DOMAIN-SUFFIX,githubassets.com,DIRECT
 DOMAIN-SUFFIX,github.io,DIRECT
 
 # ===== 国内全量直连 (blackmatrix7/ChinaMax, 每日自动更新) =====
-RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMax/ChinaMax_All.list,DIRECT
+RULE-SET,https://rawstatic.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMax/ChinaMax_All.list,DIRECT
