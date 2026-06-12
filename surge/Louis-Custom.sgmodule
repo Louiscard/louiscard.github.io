@@ -13,5 +13,8 @@ DOMAIN-SUFFIX,githubusercontent.com,DIRECT
 DOMAIN-SUFFIX,githubassets.com,DIRECT
 DOMAIN-SUFFIX,github.io,DIRECT
 
+# ===== 强制走代理(排在 ChinaMax 之前, 防止被直连规则覆盖) =====
+DOMAIN-SUFFIX,okjike.com,Proxies
+
 # ===== 国内全量直连 (blackmatrix7/ChinaMax, 每日自动更新) =====
 RULE-SET,https://rawstatic.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMax/ChinaMax_All.list,DIRECT
