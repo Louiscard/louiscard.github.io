@@ -13,7 +13,7 @@ NexT.utils = NexT.$u = {
         var imageTitle = $image.attr('title');
         var $imageWrapLink = $image.parent('a');
 
-        if ($imageWrapLink.size() < 1) {
+        if ($imageWrapLink.length < 1) {
           $imageWrapLink = $image.wrap('<a href="' + this.getAttribute('src') + '"></a>').parent('a');
         }
 
