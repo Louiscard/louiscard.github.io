@@ -1,26 +1,18 @@
 #!name=Louis 自定义规则
-#!desc=Gmail 走代理 + GitHub 走代理 + 公共WiFi强制门户修复 + 国内全量直连(ChinaMax 12万+规则, 每日自动更新), 配合托管配置使用。
+#!desc=精简版: Gmail/GitHub 强制走代理 + 公共WiFi强制门户修复。已移除 Claude(交给 profile 的 AI 组)/即刻/ChinaMax。
 #!category=自定义
 
 [Rule]
-# ===== Gmail 收发强制走代理(直连会被 GFW 掐断 TLS, 邮件发不出, 必须排在 ChinaMax 之前)=====
+# ===== Gmail 强制走代理(直连会被 GFW 掐断 TLS, 邮件发不出)=====
 DOMAIN-SUFFIX,gmail.com,Proxies
 DOMAIN-SUFFIX,googlemail.com,Proxies
 
-# ===== GitHub 强制走代理(直连成败取决于 GeoDNS 发哪个 IP: 新加坡 20.205.x 通、美国 140.82.x 超时, git push 时好时坏, 2026-06-13 改走代理求稳)=====
+# ===== GitHub 强制走代理(直连 GeoDNS 发美国 IP 时超时, git push 时好时坏, 改走代理求稳)=====
 DOMAIN-SUFFIX,github.com,Proxies
 DOMAIN-SUFFIX,githubusercontent.com,Proxies
 DOMAIN-SUFFIX,githubassets.com,Proxies
 DOMAIN-SUFFIX,github.io,Proxies
 
-# ===== 即刻: 走代理(香港即可, CN 服务对 JP 出口有 TLS 拦截)=====
-DOMAIN-SUFFIX,okjike.com,Proxies
-
-# ===== 国内全量直连 (blackmatrix7/ChinaMax, 每日自动更新)=====
-RULE-SET,https://rawstatic.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMax/ChinaMax_All.list,DIRECT
-
 [Host]
-# 公共 WiFi 强制门户(星巴克/酒店/机场)探测域名走系统解析(syslib):
-# 认证前 DoH/加密DNS 连不上其服务器 → DNS 失败 → 门户登录页打不开("The webpage couldn't be loaded")。
-# 改用系统 DNS(网关 DHCP DNS, 门户认证前唯一能应答的解析器), 让门户页能弹出。captive.apple.com 已在 skip-proxy 里直连。
+# 公共WiFi强制门户: 探测域名走系统DNS, 否则认证前 DoH 连不上、门户登录页打不开
 captive.apple.com = server:syslib
