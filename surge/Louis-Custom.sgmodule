@@ -1,5 +1,5 @@
 #!name=Louis 自定义规则
-#!desc=Gmail 走代理 + GitHub 走代理 + Claude/Anthropic 焊死日本(指向各 profile 的 Claude-JP 日本组, 不走会飘到香港的 Proxies) + 公共WiFi强制门户修复 + 国内全量直连(ChinaMax 12万+规则, 每日自动更新), 配合托管配置使用。
+#!desc=Gmail 走代理 + GitHub 走代理 + 公共WiFi强制门户修复 + 国内全量直连(ChinaMax 12万+规则, 每日自动更新), 配合托管配置使用。
 #!category=自定义
 
 [Rule]
@@ -12,16 +12,6 @@ DOMAIN-SUFFIX,github.com,Proxies
 DOMAIN-SUFFIX,githubusercontent.com,Proxies
 DOMAIN-SUFFIX,githubassets.com,Proxies
 DOMAIN-SUFFIX,github.io,Proxies
-
-# ===== Claude/Anthropic 焊死日本(必须排在 ChinaMax 之前)=====
-# 香港会被 Anthropic 区域封锁, 所以 Claude 不能走会飘到香港的 Proxies。
-# 指向 Claude-JP 组(只含日本节点), 该组需在各 profile 里定义:
-#   Work.conf 已有; Nexitally_Surge.conf 已补(见其 [Proxy Group])。
-DOMAIN,api.anthropic.com,Claude-JP
-DOMAIN-SUFFIX,anthropic.com,Claude-JP
-DOMAIN-SUFFIX,claude.ai,Claude-JP
-DOMAIN-SUFFIX,claude.com,Claude-JP
-DOMAIN-SUFFIX,claudeusercontent.com,Claude-JP
 
 # ===== 即刻: 走代理(香港即可, CN 服务对 JP 出口有 TLS 拦截)=====
 DOMAIN-SUFFIX,okjike.com,Proxies
