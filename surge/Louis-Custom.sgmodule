@@ -3,6 +3,11 @@
 #!category=自定义
 
 [Rule]
+# ===== 公共WiFi强制门户: 门户域名必须直连(认证前代理根本不通)=====
+# 星巴克中国等场所的 WiFi 由迈外迪(Wiwide)提供, 探测请求会 302 到 wiportal.wiwide.com
+DOMAIN-SUFFIX,wiwide.com,DIRECT
+DOMAIN,captive.apple.com,DIRECT
+
 # ===== Gmail 强制走代理(直连会被 GFW 掐断 TLS, 邮件发不出)=====
 DOMAIN-SUFFIX,gmail.com,Proxies
 DOMAIN-SUFFIX,googlemail.com,Proxies
@@ -14,5 +19,8 @@ DOMAIN-SUFFIX,githubassets.com,Proxies
 DOMAIN-SUFFIX,github.io,Proxies
 
 [Host]
-# 公共WiFi强制门户: 探测域名走系统DNS, 否则认证前 DoH 连不上、门户登录页打不开
+# 公共WiFi强制门户: 探测/门户域名走系统DNS, 否则认证前 DoH 连不上、门户登录页打不开
+# wiwide = 迈外迪(星巴克中国 WiFi 供应商), 门户页在 wiportal.wiwide.com
 captive.apple.com = server:syslib
+wiwide.com = server:syslib
+*.wiwide.com = server:syslib
